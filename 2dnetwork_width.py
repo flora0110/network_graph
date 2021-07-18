@@ -18,7 +18,7 @@ def make_edge(x, y, width):
     return  go.Scatter(
                 x=x,
                 y=y,
-                line=dict(width=width,color='#888'),
+                line=dict(width=width,color='#f0f0f0'),
                 hoverinfo='none',
                 mode='lines')
 
@@ -32,8 +32,8 @@ pos = nx.spring_layout(G) #布局指定节点排列形式
 edge_x = []
 edge_y = []
 data_total = []
-a=1
-
+line_width = [1,2,3,4,5]
+k=0
 for edge in G.edges():
     x0, y0 = pos[edge[0]]
     x1, y1 = pos[edge[1]]
@@ -41,31 +41,12 @@ for edge in G.edges():
     edge_x.append(x1)
     edge_y.append(y0)
     edge_y.append(y1)
-    data_total.append(make_edge(edge_x, edge_y, a))
-    a=a+1
+    data_total.append(make_edge(edge_x, edge_y,line_width[k] ))
+    k=k+1
     del edge_x[0]
     del edge_x[0]
     del edge_y[0]
     del edge_y[0]
-"""
-x0, y0 = pos[edges[0][0]]
-x1, y1 = pos[edges[0][1]]
-edge_x.append(x0)
-edge_x.append(x1)
-edge_x.append(None)
-edge_y.append(y0)
-edge_y.append(y1)
-edge_y.append(None)
-print(edge_x)
-print(edge_y)
-edge_trace = go.Scatter(
-    x=edge_x, y=edge_y,
-    line=dict(color='black', width=3),
-    hoverinfo='none',
-    showlegend=False,
-    mode='lines')
-data_total.append(edge_trace)
-"""
 # nodes trace
 node_x = []
 node_y = []
@@ -80,13 +61,15 @@ for node in G.nodes():
 
 node_trace = go.Scatter(
     x=node_x, y=node_y, text=text,
-    mode='markers+text',
+    #mode='markers+text',
+    mode='text',
     showlegend=False,
     hoverinfo='none',
-    marker=dict(
-        color='pink',
+    textfont=dict(
+        family="sans serif",
         size=50,
-        line=dict(color='black', width=1)))
+        color="LightSeaGreen"
+    ))
 
 data_total.append(node_trace)
 
