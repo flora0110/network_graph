@@ -30,6 +30,7 @@ print(N)
 #Define the list of edges and the Graph object from Edges:
 L=len(data['links'])
 Edges=[(data['links'][k]['source'], data['links'][k]['target']) for k in range(L)]
+edge_width = [(data['links'][k]['value']) for k in range(L)]
 
 G=ig.Graph(Edges, directed=False)
 print(data['nodes'][0])
@@ -51,13 +52,14 @@ Zn=[layt[k][2] for k in range(N)]# z-coordinates
 Xe=[]
 Ye=[]
 Ze=[]
-a=1
+a=0
 data_total = []
 for e in Edges:
     Xe=[layt[e[0]][0],layt[e[1]][0], None]# x-coordinates of edge ends
     Ye=[layt[e[0]][1],layt[e[1]][1], None]
     Ze=[layt[e[0]][2],layt[e[1]][2], None]
-    data_total.append(make_edge(Xe, Ye, Ze, a))
+    data_total.append(make_edge(Xe, Ye, Ze, edge_width[a]))
+    a=a+1
 
 #線條
 """
@@ -68,6 +70,7 @@ trace1=go.Scatter3d(x=Xe,
                line=dict(color='rgb(125,125,125)', width=1),
                hoverinfo='none'
                )
+"""
 """
 trace2=go.Scatter3d(x=Xn,
                y=Yn,
@@ -84,6 +87,21 @@ trace2=go.Scatter3d(x=Xn,
                hoverinfo='text'
                )
 data_total.append(trace2)
+"""
+node_trace = go.Scatter3d(x=Xn,
+                   y=Yn,
+                   z=Zn, text=labels,
+    #mode='markers+text',
+    mode='text',
+    showlegend=False,
+    hoverinfo='none',
+    textfont=dict(
+        family="sans serif",
+        size=10,
+        color="LightSeaGreen"
+    ))
+data_total.append(node_trace)
+
 axis=dict(showbackground=False,
           showline=False,
           zeroline=False,
