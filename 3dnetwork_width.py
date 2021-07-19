@@ -12,7 +12,7 @@ def make_edge(x, y, z, width):
                            y=y,
                            z=z,
                            mode='lines',
-                           line=dict(color='rgb(125,125,125)', width=width),
+                           line=dict(color='#f0f0f0', width=width),
                            hoverinfo='none'
                            )
 
