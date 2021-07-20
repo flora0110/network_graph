@@ -18,7 +18,7 @@ def make_edge(x, y, z, width):
                            y=y,
                            z=z,
                            mode='lines',
-                           line=dict(color='rgba(234,237,240,0.006)', width=round(width/10,2)),
+                           line=dict(color='rgba(76,76,76,0.006)', width=round(width/10,2)),
                            hoverinfo='none'
                            )
 
@@ -75,54 +75,6 @@ for e in Edges:
     data_total.append(make_edge(Xe, Ye, Ze, edge_width[a]))
     a=a+1
 
-#線條
-"""
-trace1=go.Scatter3d(x=Xe,
-               y=Ye,
-               z=Ze,
-               mode='lines',
-               line=dict(color='rgb(125,125,125)', width=1),
-               hoverinfo='none'
-               )
-"""
-"""
-trace2=go.Scatter3d(x=Xn,
-               y=Yn,
-               z=Zn,
-               mode='markers',
-               name='actors',
-               marker=dict(symbol='circle',
-                             size=6,
-                             color=group,
-                             colorscale='Viridis', # choose a colorscale
-                             line=dict(color='rgb(50,50,50)', width=0.5)
-                             ),
-               text=labels,
-               hoverinfo='text'
-               )
-data_total.append(trace2)
-"""
-"""
-for i in range(173) :
-    Xt = Xn[i]
-    Yt = Yn[i]
-    Zt = Zn[i]
-    labelt = labels[i]
-    node_trace = go.Scatter3d(x=Xt,
-                       y=Yt,
-                       z=Zt, text=labelt,
-        #mode='markers+text',
-        mode='text',
-        name='actors',
-        showlegend=False,
-        hoverinfo='none',
-        textfont=dict(
-            family="sans serif",
-            size=size[i],
-            color="rgba(126,156,244,0.36)"
-        ))
-    data_total.append(node_trace)
-"""
 sizes = [0]*N
 for i in range(len(Edges)) :
     sizes[Edges[i][0]] = sizes[Edges[i][0]]+1
@@ -174,7 +126,9 @@ axis=dict(showbackground=False,
 layout = go.Layout(
         #paper_bgcolor='#181818',
         paper_bgcolor="#080808",
-         title="倚天屠龍記",
+         title="倚天屠龍記人物關係圖",
+         title_font_size=50,
+         title_font_color='white',
          width=1300,
          height=900,
          showlegend=False,
@@ -207,7 +161,7 @@ layout = go.Layout(
 fig=go.Figure(data=data_total, layout=layout)
 
 plotly.offline.plot(fig, filename='Les-Miserables')
-"""
+
 # Dash app
 external_stylesheets = ['https://codepen.io/chriddyp/pen/bWLwgP.css']
 app = dash.Dash(__name__, external_stylesheets=external_stylesheets)
@@ -221,6 +175,7 @@ app.layout = html.Div([
     ]
 )
 
+
+
 if __name__ == '__main__':
     app.run_server(debug=True)
-"""
