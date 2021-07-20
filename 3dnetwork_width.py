@@ -17,7 +17,8 @@ def make_edge(x, y, z, width):
                            )
 
 data = []
-req = urllib2.Request("https://raw.githubusercontent.com/plotly/datasets/master/miserables.json")
+#req = urllib2.Request("https://raw.githubusercontent.com/plotly/datasets/master/miserables.json")
+req = urllib2.Request("https://raw.githubusercontent.com/flora0110/network_graph/master/node_connect_2.json")
 opener = urllib2.build_opener()
 f = opener.open(req)
 data = json.loads(f.read())
@@ -25,7 +26,10 @@ data = json.loads(f.read())
 print (data.keys())
 
 N=len(data['nodes'])
+N=173
 print(N)
+#for node in data['nodes']:
+#    print(node['name'])
 
 #Define the list of edges and the Graph object from Edges:
 L=len(data['links'])
@@ -39,13 +43,17 @@ labels=[]
 group=[]
 for node in data['nodes']:
     labels.append(node['name'])
-    group.append(node['group'])
+    #group.append(node['group'])
 
 #Get the node positions, set by the Kamada-Kawai layout for 3D graphs
 layt=G.layout('kk', dim=3)
 #layt is a list of three elements lists (the coordinates of nodes):
 print(layt[5])
 #Set data for the Plotly plot of the graph:
+for k in range(N) :
+    print(k)
+    print(data['nodes'][k])
+    print(layt[k][0])
 Xn=[layt[k][0] for k in range(N)]# x-coordinates of nodes
 Yn=[layt[k][1] for k in range(N)]# y-coordinates
 Zn=[layt[k][2] for k in range(N)]# z-coordinates
@@ -111,7 +119,7 @@ axis=dict(showbackground=False,
           )
 
 layout = go.Layout(
-         title="Network of coappearances of characters in Victor Hugo's novel<br> Les Miserables (3D visualization)",
+         title="射鵰英雄傳",
          width=1000,
          height=1000,
          showlegend=False,
