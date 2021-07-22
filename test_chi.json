@@ -1,8 +1,8 @@
 {
   "nodes": [
-    {"id": "王", "group": 1},
-    {"id": "b", "group": 1},
-    {"id": "c", "group": 8}
+    {"name": "王", "group": 1},
+    {"name": "b", "group": 1},
+    {"name": "c", "group": 8}
   ],
   "links": [
     {"source": "王", "target": "b", "value": 1},
