@@ -1,0 +1,17 @@
+{
+  "nodes": [
+    {"id": "王", "group": 1},
+    {"id": "船", "group": 1},
+    {"id": "山", "group": 1}
+    {"id": "火", "group": 1},
+    {"id": "海", "group": 1}
+
+  ],
+  "links": [
+    {"source": "王", "target": "船", "value": 1},
+    {"source": "船", "target": "山", "value": 8},
+    {"source": "山", "target": "海", "value": 10},
+    {"source": "山", "target": "火", "value": 6},
+    {"source": "山", "target": "王", "value": 1}
+  ]
+}
