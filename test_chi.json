@@ -1,12 +1,12 @@
 {
   "nodes": [
-    {"id": "a", "group": 1},
+    {"id": "王", "group": 1},
     {"id": "b", "group": 1},
     {"id": "c", "group": 8}
   ],
   "links": [
-    {"source": "a", "target": "b", "value": 1},
+    {"source": "王", "target": "b", "value": 1},
     {"source": "b", "target": "c", "value": 8},
-    {"source": "c", "target": "a", "value": 10}
+    {"source": "c", "target": "王", "value": 10}
   ]
 }
