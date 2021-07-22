@@ -1,17 +1,17 @@
 {
   "nodes": [
-    {"id": "王", "group": 1},
-    {"id": "船", "group": 1},
-    {"id": "山", "group": 1}
-    {"id": "火", "group": 1},
-    {"id": "海", "group": 1}
+    {"id": "a", "group": 1},
+    {"id": "b", "group": 1},
+    {"id": "c", "group": 1}
+    {"id": "d", "group": 1},
+    {"id": "e", "group": 1}
 
   ],
   "links": [
-    {"source": "王", "target": "船", "value": 1},
-    {"source": "船", "target": "山", "value": 8},
-    {"source": "山", "target": "海", "value": 10},
-    {"source": "山", "target": "火", "value": 6},
-    {"source": "山", "target": "王", "value": 1}
+    {"source": "a", "target": "b", "value": 1},
+    {"source": "b", "target": "c", "value": 8},
+    {"source": "c", "target": "d", "value": 10},
+    {"source": "c", "target": "e", "value": 6},
+    {"source": "c", "target": "a", "value": 1}
   ]
 }
