@@ -1,8 +1,4676 @@
 {
     "nodes": [
-        {"id": "張無忌"},{"id": "趙敏"},{"id": "周芷若"},{"id": "殷離"},{"id": "小昭"},{"id": "谢逊"},{"id": "張三丰"},{"id": "杨不悔"},{"id": "张翠山"},{"id": "殷素素"},{"id": "光明使者"},{"id": "護教法王"},{"id": "遊行散人"},{"id": "五行旗使"},{"id": "陽頂天"},{"id": "杨逍"},{"id": "光明左使"},{"id": "范遥"},{"id": "光明右使"},{"id": "黛綺絲"},{"id": "紫衫龍王"},{"id": "殷天正"},{"id": "白眉鷹王"},{"id": "谢遜"},{"id": "金毛獅王"},{"id": "韋一笑"},{"id": "青翼蝠王"},{"id": "冷謙"},{"id": "說不得"},{"id": "張中"},{"id": "彭瑩玉"},{"id": "周顛"},{"id": "莊錚"},{"id": "吳勁草"},{"id": "顏垣"},{"id": "唐洋"},{"id": "聞蒼松"},{"id": "辛然"},{"id": "杨不悔"},{"id": "胡青牛"},{"id": "王難姑"},{"id": "常遇春"},{"id": "朱元璋"},{"id": "徐達"},{"id": "韓林兒"},{"id": "殷天正"},{"id": "殷野王"},{"id": "殷素素"},{"id": "李天垣"},{"id": "常金鵬"},{"id": "白龜壽"},{"id": "程壇主"},{"id": "封壇主"},{"id": "殷無福"},{"id": "宋远桥"},{"id": "俞莲舟"},{"id": "俞岱巖"},{"id": "张松溪"},{"id": "张翠山"},{"id": "殷梨亭"},{"id": "莫声谷"},{"id": "宋青書"},{"id": "清風"},{"id": "明月"},{"id": "靈虛子"},{"id": "知客道人"},{"id": "郭襄"},{"id": "風陵師太"},{"id": "灭绝师太"},{"id": "周芷若"},{"id": "孤鴻子"},{"id": "丁敏君"},{"id": "紀曉芙"},{"id": "貝錦儀"},{"id": "靜虛師太"},{"id": "靜玄師太"},{"id": "靜照師太"},{"id": "蘇夢清"},{"id": "覺遠"},{"id": "空見"},{"id": "空聞"},{"id": "空智"},{"id": "空性"},{"id": "成崑"},{"id": "渡厄"},{"id": "渡劫"},{"id": "渡難"},{"id": "關能"},{"id": "宗維俠"},{"id": "唐文亮"},{"id": "常敬之"},{"id": "簡捷"},{"id": "胡豹"},{"id": "鮮于通"},{"id": "高老者"},{"id": "薛公遠"},{"id": "白垣"},{"id": "何足道"},{"id": "何太沖"},{"id": "班淑嫻"},{"id": "西华子"},{"id": "卫四娘"},{"id": "五姑"},{"id": "詹春"},{"id": "蘇習之"},{"id": "白鹿子"},{"id": "高則成"},{"id": "蔣濤"},{"id": "史火龍"},{"id": "史紅石"},{"id": "傳功長老"},{"id": "執法長老"},{"id": "掌棒龍頭"},{"id": "掌缽龍頭"},{"id": "陳友諒"},{"id": "季長老"},{"id": "鄭長老"},{"id": "韩千叶"},{"id": "武烈"},{"id": "朱長齡"},{"id": "衛壁"},{"id": "朱九真"},{"id": "武青嬰"},{"id": "姚清泉"},{"id": "喬福"},{"id": "小鳳"},{"id": "黃衫女子"},{"id": "阿二"},{"id": "阿三"},{"id": "剛相"},{"id": "趙一傷"},{"id": "錢二敗"},{"id": "孫三毀"},{"id": "李四摧"},{"id": "周五輸"},{"id": "吳六破"},{"id": "鄭七滅"},{"id": "王八衰"},{"id": "察罕特穆儿"},{"id": "王保保"},{"id": "玄冥二老"},{"id": "方東白"},{"id": "夏冑"},{"id": "司徒千鍾"},{"id": "歐陽牧之"},{"id": "杜百當"},{"id": "易三娘"},{"id": "元廣波"},{"id": "張登雲"},{"id": "麥鯨"},{"id": "蔡四"},{"id": "花青山"},{"id": "海馬胡六"},{"id": "過三拳"},{"id": "梅石堅"},{"id": "賀老三"},{"id": "泉建男"},{"id": "孟正鴻"},{"id": "孟正鵬"},{"id": "祁天彪"},{"id": "雲鶴"},{"id": "宮九佳"},{"id": "吳一邙"},{"id": "譚瑞"},{"id": "湯和"},{"id": "鄧愈"},{"id": "花雲"},{"id": "吳良"},{"id": "吳禎"},{"id": "胡青羊"},{"id": "壽南山"},{"id": "秦老五"},{"id": "馬法通"},{"id": "邵鶴"},{"id": "邵雁"},{"id": "秦大鵬"}
+        {
+            "id": "張無忌",
+            "group": 4355
+        },
+        {
+            "id": "趙敏",
+            "group": 1156
+        },
+        {
+            "id": "周芷若",
+            "group": 765
+        },
+        {
+            "id": "殷離",
+            "group": 154
+        },
+        {
+            "id": "小昭",
+            "group": 294
+        },
+        {
+            "id": "張三丰",
+            "group": 432
+        },
+        {
+            "id": "殷素素",
+            "group": 532
+        },
+        {
+            "id": "光明使者",
+            "group": 12
+        },
+        {
+            "id": "護教法王",
+            "group": 19
+        },
+        {
+            "id": "遊行散人",
+            "group": 1
+        },
+        {
+            "id": "五行旗使",
+            "group": 2
+        },
+        {
+            "id": "陽頂天",
+            "group": 46
+        },
+        {
+            "id": "光明左使",
+            "group": 14
+        },
+        {
+            "id": "光明右使",
+            "group": 13
+        },
+        {
+            "id": "黛綺絲",
+            "group": 60
+        },
+        {
+            "id": "紫衫龍王",
+            "group": 32
+        },
+        {
+            "id": "殷天正",
+            "group": 188
+        },
+        {
+            "id": "白眉鷹王",
+            "group": 32
+        },
+        {
+            "id": "金毛獅王",
+            "group": 106
+        },
+        {
+            "id": "韋一笑",
+            "group": 242
+        },
+        {
+            "id": "青翼蝠王",
+            "group": 41
+        },
+        {
+            "id": "冷謙",
+            "group": 42
+        },
+        {
+            "id": "說不得",
+            "group": 143
+        },
+        {
+            "id": "張中",
+            "group": 4
+        },
+        {
+            "id": "彭瑩玉",
+            "group": 100
+        },
+        {
+            "id": "周顛",
+            "group": 216
+        },
+        {
+            "id": "吳勁草",
+            "group": 35
+        },
+        {
+            "id": "顏垣",
+            "group": 18
+        },
+        {
+            "id": "唐洋",
+            "group": 6
+        },
+        {
+            "id": "聞蒼松",
+            "group": 4
+        },
+        {
+            "id": "辛然",
+            "group": 11
+        },
+        {
+            "id": "胡青牛",
+            "group": 253
+        },
+        {
+            "id": "王難姑",
+            "group": 36
+        },
+        {
+            "id": "常遇春",
+            "group": 168
+        },
+        {
+            "id": "朱元璋",
+            "group": 62
+        },
+        {
+            "id": "徐達",
+            "group": 49
+        },
+        {
+            "id": "韓林兒",
+            "group": 78
+        },
+        {
+            "id": "殷天正",
+            "group": 188
+        },
+        {
+            "id": "殷野王",
+            "group": 71
+        },
+        {
+            "id": "殷素素",
+            "group": 532
+        },
+        {
+            "id": "李天垣",
+            "group": 21
+        },
+        {
+            "id": "常金鵬",
+            "group": 62
+        },
+        {
+            "id": "白龜壽",
+            "group": 60
+        },
+        {
+            "id": "程壇主",
+            "group": 10
+        },
+        {
+            "id": "封壇主",
+            "group": 10
+        },
+        {
+            "id": "殷無福",
+            "group": 22
+        },
+        {
+            "id": "殷梨亭",
+            "group": 288
+        },
+        {
+            "id": "宋青書",
+            "group": 241
+        },
+        {
+            "id": "清風",
+            "group": 14
+        },
+        {
+            "id": "明月",
+            "group": 25
+        },
+        {
+            "id": "知客道人",
+            "group": 7
+        },
+        {
+            "id": "郭襄",
+            "group": 256
+        },
+        {
+            "id": "風陵師太",
+            "group": 1
+        },
+        {
+            "id": "周芷若",
+            "group": 765
+        },
+        {
+            "id": "孤鴻子",
+            "group": 5
+        },
+        {
+            "id": "丁敏君",
+            "group": 145
+        },
+        {
+            "id": "紀曉芙",
+            "group": 220
+        },
+        {
+            "id": "貝錦儀",
+            "group": 19
+        },
+        {
+            "id": "靜虛師太",
+            "group": 9
+        },
+        {
+            "id": "靜玄師太",
+            "group": 12
+        },
+        {
+            "id": "蘇夢清",
+            "group": 4
+        },
+        {
+            "id": "覺遠",
+            "group": 122
+        },
+        {
+            "id": "空見",
+            "group": 114
+        },
+        {
+            "id": "空聞",
+            "group": 168
+        },
+        {
+            "id": "空智",
+            "group": 179
+        },
+        {
+            "id": "空性",
+            "group": 98
+        },
+        {
+            "id": "渡厄",
+            "group": 78
+        },
+        {
+            "id": "渡劫",
+            "group": 50
+        },
+        {
+            "id": "渡難",
+            "group": 58
+        },
+        {
+            "id": "關能",
+            "group": 6
+        },
+        {
+            "id": "宗維俠",
+            "group": 49
+        },
+        {
+            "id": "唐文亮",
+            "group": 31
+        },
+        {
+            "id": "常敬之",
+            "group": 21
+        },
+        {
+            "id": "簡捷",
+            "group": 64
+        },
+        {
+            "id": "胡豹",
+            "group": 4
+        },
+        {
+            "id": "高老者",
+            "group": 70
+        },
+        {
+            "id": "薛公遠",
+            "group": 46
+        },
+        {
+            "id": "白垣",
+            "group": 8
+        },
+        {
+            "id": "何足道",
+            "group": 121
+        },
+        {
+            "id": "何太沖",
+            "group": 222
+        },
+        {
+            "id": "班淑嫻",
+            "group": 96
+        },
+        {
+            "id": "五姑",
+            "group": 38
+        },
+        {
+            "id": "詹春",
+            "group": 57
+        },
+        {
+            "id": "蘇習之",
+            "group": 26
+        },
+        {
+            "id": "白鹿子",
+            "group": 2
+        },
+        {
+            "id": "高則成",
+            "group": 24
+        },
+        {
+            "id": "蔣濤",
+            "group": 21
+        },
+        {
+            "id": "史火龍",
+            "group": 82
+        },
+        {
+            "id": "史紅石",
+            "group": 16
+        },
+        {
+            "id": "傳功長老",
+            "group": 50
+        },
+        {
+            "id": "執法長老",
+            "group": 55
+        },
+        {
+            "id": "掌棒龍頭",
+            "group": 67
+        },
+        {
+            "id": "掌缽龍頭",
+            "group": 48
+        },
+        {
+            "id": "陳友諒",
+            "group": 176
+        },
+        {
+            "id": "季長老",
+            "group": 6
+        },
+        {
+            "id": "鄭長老",
+            "group": 18
+        },
+        {
+            "id": "武烈",
+            "group": 43
+        },
+        {
+            "id": "朱長齡",
+            "group": 181
+        },
+        {
+            "id": "衛壁",
+            "group": 20
+        },
+        {
+            "id": "朱九真",
+            "group": 129
+        },
+        {
+            "id": "武青嬰",
+            "group": 48
+        },
+        {
+            "id": "姚清泉",
+            "group": 29
+        },
+        {
+            "id": "喬福",
+            "group": 18
+        },
+        {
+            "id": "小鳳",
+            "group": 21
+        },
+        {
+            "id": "黃衫女子",
+            "group": 47
+        },
+        {
+            "id": "阿二",
+            "group": 27
+        },
+        {
+            "id": "阿三",
+            "group": 47
+        },
+        {
+            "id": "剛相",
+            "group": 1
+        },
+        {
+            "id": "趙一傷",
+            "group": 4
+        },
+        {
+            "id": "錢二敗",
+            "group": 5
+        },
+        {
+            "id": "孫三毀",
+            "group": 9
+        },
+        {
+            "id": "李四摧",
+            "group": 7
+        },
+        {
+            "id": "周五輸",
+            "group": 1
+        },
+        {
+            "id": "吳六破",
+            "group": 2
+        },
+        {
+            "id": "鄭七滅",
+            "group": 1
+        },
+        {
+            "id": "王八衰",
+            "group": 2
+        },
+        {
+            "id": "王保保",
+            "group": 56
+        },
+        {
+            "id": "玄冥二老",
+            "group": 82
+        },
+        {
+            "id": "方東白",
+            "group": 17
+        },
+        {
+            "id": "司徒千鍾",
+            "group": 32
+        },
+        {
+            "id": "歐陽牧之",
+            "group": 3
+        },
+        {
+            "id": "杜百當",
+            "group": 19
+        },
+        {
+            "id": "易三娘",
+            "group": 34
+        },
+        {
+            "id": "元廣波",
+            "group": 9
+        },
+        {
+            "id": "張登雲",
+            "group": 3
+        },
+        {
+            "id": "麥鯨",
+            "group": 19
+        },
+        {
+            "id": "蔡四",
+            "group": 2
+        },
+        {
+            "id": "花青山",
+            "group": 1
+        },
+        {
+            "id": "海馬胡六",
+            "group": 1
+        },
+        {
+            "id": "過三拳",
+            "group": 13
+        },
+        {
+            "id": "梅石堅",
+            "group": 1
+        },
+        {
+            "id": "賀老三",
+            "group": 12
+        },
+        {
+            "id": "泉建男",
+            "group": 19
+        },
+        {
+            "id": "孟正鴻",
+            "group": 10
+        },
+        {
+            "id": "孟正鵬",
+            "group": 1
+        },
+        {
+            "id": "祁天彪",
+            "group": 27
+        },
+        {
+            "id": "雲鶴",
+            "group": 14
+        },
+        {
+            "id": "宮九佳",
+            "group": 12
+        },
+        {
+            "id": "譚瑞",
+            "group": 3
+        },
+        {
+            "id": "湯和",
+            "group": 16
+        },
+        {
+            "id": "鄧愈",
+            "group": 12
+        },
+        {
+            "id": "花雲",
+            "group": 8
+        },
+        {
+            "id": "吳良",
+            "group": 7
+        },
+        {
+            "id": "吳禎",
+            "group": 5
+        },
+        {
+            "id": "胡青羊",
+            "group": 4
+        },
+        {
+            "id": "壽南山",
+            "group": 12
+        },
+        {
+            "id": "秦老五",
+            "group": 13
+        },
+        {
+            "id": "馬法通",
+            "group": 16
+        },
+        {
+            "id": "邵鶴",
+            "group": 8
+        },
+        {
+            "id": "秦大鵬",
+            "group": 1
+        }
     ],
     "links": [
-        {"source": "郭襄","target": "覺遠","value": 28},{"source": "郭襄","target": "何足道","value": 20},{"source": "覺遠","target": "何足道","value": 18},{"source": "張三丰","target": "殷梨亭","value": 17},{"source": "張三丰","target": "覺遠","value": 10},{"source": "張三丰","target": "何足道","value": 2},{"source": "張三丰","target": "空聞","value": 10},{"source": "張三丰","target": "空見","value": 3},{"source": "殷素素","target": "殷素素","value": 532},{"source": "殷素素","target": "常金鵬","value": 24},{"source": "殷素素","target": "過三拳","value": 6},{"source": "常金鵬","target": "過三拳","value": 4},{"source": "殷素素","target": "空見","value": 6},{"source": "殷素素","target": "白龜壽","value": 16},{"source": "殷素素","target": "高則成","value": 16},{"source": "白龜壽","target": "高則成","value": 1},{"source": "常金鵬","target": "白龜壽","value": 9},{"source": "殷素素","target": "蔣濤","value": 12},{"source": "高則成","target": "蔣濤","value": 16},{"source": "張三丰","target": "殷素素","value": 4},{"source": "常金鵬","target": "高則成","value": 1},{"source": "金毛獅王","target": "白龜壽","value": 2},{"source": "金毛獅王","target": "常金鵬","value": 1},{"source": "元廣波","target": "張登雲","value": 2},{"source": "麥鯨","target": "蔡四","value": 1},{"source": "麥鯨","target": "花青山","value": 1},{"source": "麥鯨","target": "海馬胡六","value": 1},{"source": "蔡四","target": "花青山","value": 1},{"source": "蔡四","target": "海馬胡六","value": 1},{"source": "花青山","target": "海馬胡六","value": 1},{"source": "麥鯨","target": "過三拳","value": 3},{"source": "白龜壽","target": "過三拳","value": 2},{"source": "殷素素","target": "元廣波","value": 2},{"source": "殷素素","target": "麥鯨","value": 2},{"source": "常金鵬","target": "元廣波","value": 1},{"source": "常金鵬","target": "麥鯨","value": 1},{"source": "白龜壽","target": "元廣波","value": 1},{"source": "白龜壽","target": "麥鯨","value": 1},{"source": "元廣波","target": "麥鯨","value": 1},{"source": "元廣波","target": "過三拳","value": 1},{"source": "張三丰","target": "空智","value": 5},{"source": "張三丰","target": "空性","value": 5},{"source": "空聞","target": "空智","value": 55},{"source": "空聞","target": "空性","value": 17},{"source": "空智","target": "空性","value": 20},{"source": "殷天正","target": "殷天正","value": 188},{"source": "殷素素","target": "說不得","value": 1},{"source": "說不得","target": "殷素素","value": 1},{"source": "殷素素","target": "殷天正","value": 8},{"source": "殷素素","target": "白眉鷹王","value": 1},{"source": "殷天正","target": "白眉鷹王","value": 12},{"source": "殷天正","target": "殷素素","value": 8},{"source": "白眉鷹王","target": "殷天正","value": 12},{"source": "白眉鷹王","target": "殷素素","value": 1},{"source": "殷素素","target": "金毛獅王","value": 4},{"source": "金毛獅王","target": "殷素素","value": 4},{"source": "空見","target": "空聞","value": 9},{"source": "空見","target": "空智","value": 9},{"source": "空見","target": "空性","value": 10},{"source": "程壇主","target": "封壇主","value": 5},{"source": "殷素素","target": "殷野王","value": 2},{"source": "殷素素","target": "李天垣","value": 16},{"source": "殷天正","target": "殷野王","value": 28},{"source": "殷天正","target": "李天垣","value": 4},{"source": "殷野王","target": "殷素素","value": 2},{"source": "殷野王","target": "李天垣","value": 2},{"source": "殷素素","target": "封壇主","value": 4},{"source": "殷素素","target": "程壇主","value": 2},{"source": "李天垣","target": "程壇主","value": 1},{"source": "靜虛師太","target": "唐文亮","value": 3},{"source": "殷天正","target": "唐文亮","value": 14},{"source": "金毛獅王","target": "唐文亮","value": 2},{"source": "殷素素","target": "唐文亮","value": 2},{"source": "殷天正","target": "靜虛師太","value": 2},{"source": "程壇主","target": "唐文亮","value": 1},{"source": "封壇主","target": "唐文亮","value": 1},{"source": "殷素素","target": "賀老三","value": 4},{"source": "梅石堅","target": "賀老三","value": 1},{"source": "殷素素","target": "覺遠","value": 2},{"source": "殷素素","target": "郭襄","value": 2},{"source": "殷素素","target": "泉建男","value": 2},{"source": "殷素素","target": "殷梨亭","value": 6},{"source": "金毛獅王","target": "孟正鴻","value": 1},{"source": "金毛獅王","target": "孟正鵬","value": 1},{"source": "孟正鴻","target": "孟正鵬","value": 1},{"source": "殷梨亭","target": "祁天彪","value": 2},{"source": "殷梨亭","target": "雲鶴","value": 1},{"source": "殷梨亭","target": "宮九佳","value": 1},{"source": "祁天彪","target": "雲鶴","value": 4},{"source": "祁天彪","target": "宮九佳","value": 4},{"source": "雲鶴","target": "宮九佳","value": 3},{"source": "金毛獅王","target": "殷梨亭","value": 1},{"source": "殷無福","target": "祁天彪","value": 1},{"source": "殷無福","target": "宮九佳","value": 1},{"source": "殷無福","target": "譚瑞","value": 2},{"source": "祁天彪","target": "譚瑞","value": 1},{"source": "宮九佳","target": "譚瑞","value": 1},{"source": "何太沖","target": "班淑嫻","value": 35},{"source": "張三丰","target": "何太沖","value": 2},{"source": "殷梨亭","target": "紀曉芙","value": 22},{"source": "紀曉芙","target": "貝錦儀","value": 8},{"source": "張三丰","target": "靜玄師太","value": 1},{"source": "靜虛師太","target": "靜玄師太","value": 1},{"source": "靜虛師太","target": "關能","value": 1},{"source": "靜虛師太","target": "宗維俠","value": 1},{"source": "靜虛師太","target": "常敬之","value": 1},{"source": "靜玄師太","target": "關能","value": 4},{"source": "靜玄師太","target": "宗維俠","value": 1},{"source": "靜玄師太","target": "唐文亮","value": 1},{"source": "靜玄師太","target": "常敬之","value": 1},{"source": "關能","target": "宗維俠","value": 1},{"source": "關能","target": "唐文亮","value": 1},{"source": "關能","target": "常敬之","value": 1},{"source": "宗維俠","target": "唐文亮","value": 2},{"source": "宗維俠","target": "常敬之","value": 4},{"source": "唐文亮","target": "常敬之","value": 6},{"source": "覺遠","target": "空聞","value": 1},{"source": "靜玄師太","target": "何太沖","value": 3},{"source": "關能","target": "何太沖","value": 3},{"source": "金毛獅王","target": "空見","value": 4},{"source": "殷素素","target": "紀曉芙","value": 4},{"source": "靜玄師太","target": "空聞","value": 2},{"source": "空聞","target": "關能","value": 2},{"source": "空聞","target": "何太沖","value": 3},{"source": "殷素素","target": "空聞","value": 10},{"source": "金毛獅王","target": "空聞","value": 1},{"source": "紀曉芙","target": "靜玄師太","value": 1},{"source": "殷梨亭","target": "覺遠","value": 1},{"source": "張三丰","target": "郭襄","value": 2},{"source": "覺遠","target": "空智","value": 2},{"source": "張無忌","target": "張三丰","value": 55},{"source": "周芷若","target": "張三丰","value": 7},{"source": "周芷若","target": "周芷若","value": 765},{"source": "張三丰","target": "周芷若","value": 7},{"source": "張三丰","target": "常遇春","value": 16},{"source": "周芷若","target": "常遇春","value": 3},{"source": "常遇春","target": "周芷若","value": 3},{"source": "張無忌","target": "周芷若","value": 484},{"source": "張無忌","target": "常遇春","value": 50},{"source": "張三丰","target": "胡青牛","value": 4},{"source": "胡青牛","target": "常遇春","value": 24},{"source": "張無忌","target": "殷梨亭","value": 48},{"source": "張無忌","target": "紀曉芙","value": 69},{"source": "張無忌","target": "白龜壽","value": 1},{"source": "常遇春","target": "白龜壽","value": 1},{"source": "丁敏君","target": "紀曉芙","value": 33},{"source": "彭瑩玉","target": "白龜壽","value": 2},{"source": "彭瑩玉","target": "丁敏君","value": 3},{"source": "白龜壽","target": "丁敏君","value": 1},{"source": "張無忌","target": "丁敏君","value": 18},{"source": "殷梨亭","target": "丁敏君","value": 5},{"source": "常遇春","target": "丁敏君","value": 1},{"source": "張無忌","target": "胡青牛","value": 99},{"source": "白眉鷹王","target": "胡青牛","value": 1},{"source": "白眉鷹王","target": "常遇春","value": 1},{"source": "張無忌","target": "殷素素","value": 6},{"source": "常遇春","target": "紀曉芙","value": 3},{"source": "紀曉芙","target": "簡捷","value": 3},{"source": "張無忌","target": "簡捷","value": 18},{"source": "胡青牛","target": "紀曉芙","value": 17},{"source": "胡青牛","target": "簡捷","value": 6},{"source": "張無忌","target": "薛公遠","value": 15},{"source": "胡青牛","target": "薛公遠","value": 3},{"source": "簡捷","target": "薛公遠","value": 25},{"source": "胡青牛","target": "王難姑","value": 14},{"source": "王難姑","target": "紀曉芙","value": 1},{"source": "張無忌","target": "王難姑","value": 11},{"source": "張無忌","target": "金毛獅王","value": 21},{"source": "丁敏君","target": "貝錦儀","value": 7},{"source": "張無忌","target": "郭襄","value": 2},{"source": "郭襄","target": "紀曉芙","value": 2},{"source": "金毛獅王","target": "紀曉芙","value": 1},{"source": "張無忌","target": "貝錦儀","value": 2},{"source": "光明左使","target": "紀曉芙","value": 1},{"source": "孤鴻子","target": "紀曉芙","value": 3},{"source": "紀曉芙","target": "薛公遠","value": 1},{"source": "張三丰","target": "薛公遠","value": 2},{"source": "徐達","target": "簡捷","value": 2},{"source": "徐達","target": "薛公遠","value": 1},{"source": "張無忌","target": "徐達","value": 14},{"source": "吳良","target": "吳禎","value": 4},{"source": "張無忌","target": "朱元璋","value": 18},{"source": "徐達","target": "吳良","value": 3},{"source": "朱元璋","target": "吳良","value": 4},{"source": "朱元璋","target": "吳禎","value": 3},{"source": "朱元璋","target": "徐達","value": 19},{"source": "鄧愈","target": "花雲","value": 4},{"source": "朱元璋","target": "湯和","value": 9},{"source": "朱元璋","target": "鄧愈","value": 9},{"source": "朱元璋","target": "花雲","value": 4},{"source": "徐達","target": "湯和","value": 7},{"source": "徐達","target": "鄧愈","value": 7},{"source": "徐達","target": "花雲","value": 3},{"source": "湯和","target": "鄧愈","value": 10},{"source": "湯和","target": "花雲","value": 3},{"source": "常遇春","target": "簡捷","value": 1},{"source": "常遇春","target": "薛公遠","value": 1},{"source": "詹春","target": "蘇習之","value": 15},{"source": "張無忌","target": "詹春","value": 11},{"source": "張無忌","target": "蘇習之","value": 6},{"source": "何太沖","target": "詹春","value": 15},{"source": "何太沖","target": "蘇習之","value": 1},{"source": "何太沖","target": "五姑","value": 19},{"source": "五姑","target": "詹春","value": 9},{"source": "張無忌","target": "何太沖","value": 77},{"source": "簡捷","target": "何太沖","value": 1},{"source": "簡捷","target": "詹春","value": 1},{"source": "張無忌","target": "五姑","value": 14},{"source": "紀曉芙","target": "何太沖","value": 2},{"source": "班淑嫻","target": "五姑","value": 3},{"source": "張無忌","target": "班淑嫻","value": 26},{"source": "班淑嫻","target": "詹春","value": 1},{"source": "張無忌","target": "光明左使","value": 4},{"source": "何太沖","target": "白鹿子","value": 1},{"source": "班淑嫻","target": "白鹿子","value": 1},{"source": "紀曉芙","target": "班淑嫻","value": 1},{"source": "張無忌","target": "喬福","value": 8},{"source": "喬福","target": "小鳳","value": 5},{"source": "張無忌","target": "小鳳","value": 7},{"source": "張無忌","target": "朱九真","value": 46},{"source": "朱九真","target": "喬福","value": 1},{"source": "朱九真","target": "小鳳","value": 1},{"source": "朱九真","target": "武青嬰","value": 12},{"source": "張無忌","target": "武青嬰","value": 15},{"source": "朱長齡","target": "朱九真","value": 17},{"source": "朱長齡","target": "武青嬰","value": 3},{"source": "張無忌","target": "朱長齡","value": 50},{"source": "張無忌","target": "姚清泉","value": 9},{"source": "朱九真","target": "姚清泉","value": 5},{"source": "朱長齡","target": "姚清泉","value": 11},{"source": "靜玄師太","target": "空智","value": 1},{"source": "空智","target": "關能","value": 1},{"source": "空智","target": "何太沖","value": 1},{"source": "張三丰","target": "姚清泉","value": 1},{"source": "金毛獅王","target": "朱長齡","value": 6},{"source": "金毛獅王","target": "姚清泉","value": 1},{"source": "胡豹","target": "朱長齡","value": 3},{"source": "張無忌","target": "武烈","value": 10},{"source": "武烈","target": "朱長齡","value": 10},{"source": "武烈","target": "武青嬰","value": 10},{"source": "武烈","target": "朱九真","value": 3},{"source": "胡豹","target": "武烈","value": 1},{"source": "胡豹","target": "姚清泉","value": 1},{"source": "武烈","target": "姚清泉","value": 1},{"source": "張無忌","target": "衛壁","value": 4},{"source": "衛壁","target": "朱九真","value": 5},{"source": "張無忌","target": "說不得","value": 32},{"source": "張無忌","target": "覺遠","value": 3},{"source": "丁敏君","target": "何太沖","value": 2},{"source": "丁敏君","target": "班淑嫻","value": 3},{"source": "丁敏君","target": "武烈","value": 2},{"source": "丁敏君","target": "衛壁","value": 1},{"source": "丁敏君","target": "武青嬰","value": 4},{"source": "何太沖","target": "武烈","value": 5},{"source": "何太沖","target": "衛壁","value": 3},{"source": "何太沖","target": "武青嬰","value": 3},{"source": "班淑嫻","target": "武烈","value": 2},{"source": "班淑嫻","target": "衛壁","value": 1},{"source": "班淑嫻","target": "武青嬰","value": 4},{"source": "武烈","target": "衛壁","value": 5},{"source": "衛壁","target": "武青嬰","value": 5},{"source": "何太沖","target": "朱九真","value": 1},{"source": "周芷若","target": "丁敏君","value": 26},{"source": "張無忌","target": "彭瑩玉","value": 27},{"source": "周芷若","target": "彭瑩玉","value": 8},{"source": "周芷若","target": "紀曉芙","value": 6},{"source": "彭瑩玉","target": "周芷若","value": 8},{"source": "彭瑩玉","target": "紀曉芙","value": 1},{"source": "光明使者","target": "護教法王","value": 4},{"source": "胡青牛","target": "朱元璋","value": 1},{"source": "胡青牛","target": "徐達","value": 1},{"source": "王難姑","target": "常遇春","value": 1},{"source": "王難姑","target": "朱元璋","value": 1},{"source": "王難姑","target": "徐達","value": 1},{"source": "常遇春","target": "朱元璋","value": 10},{"source": "常遇春","target": "徐達","value": 16},{"source": "護教法王","target": "韋一笑","value": 2},{"source": "護教法王","target": "青翼蝠王","value": 3},{"source": "韋一笑","target": "青翼蝠王","value": 14},{"source": "張無忌","target": "殷天正","value": 58},{"source": "張無忌","target": "白眉鷹王","value": 4},{"source": "殷天正","target": "金毛獅王","value": 1},{"source": "白眉鷹王","target": "金毛獅王","value": 3},{"source": "金毛獅王","target": "殷天正","value": 1},{"source": "紫衫龍王","target": "白眉鷹王","value": 2},{"source": "紫衫龍王","target": "金毛獅王","value": 4},{"source": "紫衫龍王","target": "青翼蝠王","value": 3},{"source": "白眉鷹王","target": "青翼蝠王","value": 5},{"source": "金毛獅王","target": "青翼蝠王","value": 2},{"source": "張無忌","target": "護教法王","value": 2},{"source": "光明左使","target": "光明右使","value": 1},{"source": "光明右使","target": "紫衫龍王","value": 3},{"source": "韋一笑","target": "孤鴻子","value": 1},{"source": "韋一笑","target": "紀曉芙","value": 2},{"source": "紫衫龍王","target": "殷梨亭","value": 1},{"source": "青翼蝠王","target": "殷梨亭","value": 3},{"source": "胡青牛","target": "殷梨亭","value": 2},{"source": "周芷若","target": "殷梨亭","value": 20},{"source": "殷梨亭","target": "周芷若","value": 20},{"source": "周芷若","target": "殷天正","value": 6},{"source": "周芷若","target": "殷無福","value": 1},{"source": "殷天正","target": "殷無福","value": 2},{"source": "殷天正","target": "周芷若","value": 6},{"source": "殷無福","target": "周芷若","value": 1},{"source": "張三丰","target": "紀曉芙","value": 1},{"source": "殷梨亭","target": "郭襄","value": 1},{"source": "張無忌","target": "宋青書","value": 50},{"source": "周芷若","target": "宋青書","value": 22},{"source": "宋青書","target": "周芷若","value": 22},{"source": "殷梨亭","target": "宋青書","value": 12},{"source": "青翼蝠王","target": "宋青書","value": 1},{"source": "青翼蝠王","target": "丁敏君","value": 1},{"source": "青翼蝠王","target": "貝錦儀","value": 1},{"source": "殷梨亭","target": "貝錦儀","value": 3},{"source": "宋青書","target": "丁敏君","value": 2},{"source": "宋青書","target": "貝錦儀","value": 2},{"source": "張三丰","target": "丁敏君","value": 1},{"source": "張無忌","target": "青翼蝠王","value": 12},{"source": "張無忌","target": "韋一笑","value": 54},{"source": "殷梨亭","target": "何太沖","value": 3},{"source": "殷梨亭","target": "班淑嫻","value": 1},{"source": "宋青書","target": "何太沖","value": 2},{"source": "宋青書","target": "班淑嫻","value": 2},{"source": "張無忌","target": "清風","value": 6},{"source": "清風","target": "明月","value": 7},{"source": "白眉鷹王","target": "殷野王","value": 1},{"source": "張無忌","target": "殷野王","value": 29},{"source": "殷野王","target": "殷無福","value": 1},{"source": "韋一笑","target": "殷野王","value": 8},{"source": "青翼蝠王","target": "殷野王","value": 2},{"source": "殷天正","target": "韋一笑","value": 15},{"source": "韋一笑","target": "殷天正","value": 15},{"source": "韋一笑","target": "說不得","value": 25},{"source": "青翼蝠王","target": "說不得","value": 1},{"source": "張無忌","target": "周顛","value": 18},{"source": "說不得","target": "周顛","value": 43},{"source": "韋一笑","target": "周顛","value": 20},{"source": "說不得","target": "張中","value": 2},{"source": "張中","target": "周顛","value": 4},{"source": "冷謙","target": "彭瑩玉","value": 6},{"source": "冷謙","target": "說不得","value": 8},{"source": "冷謙","target": "周顛","value": 12},{"source": "白眉鷹王","target": "韋一笑","value": 2},{"source": "白眉鷹王","target": "說不得","value": 3},{"source": "白眉鷹王","target": "周顛","value": 1},{"source": "韋一笑","target": "冷謙","value": 4},{"source": "光明右使","target": "金毛獅王","value": 1},{"source": "光明左使","target": "周顛","value": 2},{"source": "護教法王","target": "光明左使","value": 1},{"source": "彭瑩玉","target": "周顛","value": 17},{"source": "光明左使","target": "說不得","value": 1},{"source": "說不得","target": "彭瑩玉","value": 12},{"source": "陽頂天","target": "韋一笑","value": 1},{"source": "陽頂天","target": "周顛","value": 3},{"source": "張無忌","target": "空見","value": 13},{"source": "說不得","target": "空見","value": 1},{"source": "張無忌","target": "光明使者","value": 3},{"source": "光明使者","target": "青翼蝠王","value": 2},{"source": "張無忌","target": "冷謙","value": 3},{"source": "陽頂天","target": "彭瑩玉","value": 1},{"source": "殷天正","target": "空見","value": 2},{"source": "周顛","target": "紀曉芙","value": 1},{"source": "張無忌","target": "小昭","value": 113},{"source": "小昭","target": "陽頂天","value": 3},{"source": "光明使者","target": "五行旗使","value": 1},{"source": "護教法王","target": "五行旗使","value": 1},{"source": "張三丰","target": "護教法王","value": 1},{"source": "說不得","target": "殷梨亭","value": 2},{"source": "說不得","target": "宋青書","value": 1},{"source": "殷天正","target": "空聞","value": 6},{"source": "殷天正","target": "空智","value": 6},{"source": "張三丰","target": "殷天正","value": 16},{"source": "殷天正","target": "殷梨亭","value": 2},{"source": "白眉鷹王","target": "殷梨亭","value": 1},{"source": "張無忌","target": "唐文亮","value": 7},{"source": "殷天正","target": "宗維俠","value": 14},{"source": "殷素素","target": "宗維俠","value": 2},{"source": "韋一笑","target": "李天垣","value": 1},{"source": "說不得","target": "李天垣","value": 2},{"source": "張無忌","target": "空智","value": 21},{"source": "張無忌","target": "宗維俠","value": 19},{"source": "空智","target": "宗維俠","value": 2},{"source": "空見","target": "宗維俠","value": 2},{"source": "金毛獅王","target": "空智","value": 4},{"source": "周芷若","target": "宗維俠","value": 2},{"source": "小昭","target": "宗維俠","value": 1},{"source": "張無忌","target": "常敬之","value": 7},{"source": "張無忌","target": "空性","value": 37},{"source": "殷野王","target": "空性","value": 1},{"source": "殷天正","target": "冷謙","value": 1},{"source": "殷天正","target": "說不得","value": 8},{"source": "殷天正","target": "周顛","value": 9},{"source": "冷謙","target": "殷天正","value": 1},{"source": "冷謙","target": "殷野王","value": 1},{"source": "冷謙","target": "李天垣","value": 1},{"source": "說不得","target": "殷天正","value": 8},{"source": "說不得","target": "殷野王","value": 5},{"source": "周顛","target": "殷天正","value": 9},{"source": "周顛","target": "殷野王","value": 9},{"source": "周顛","target": "李天垣","value": 1},{"source": "胡青牛","target": "胡青羊","value": 1},{"source": "張無忌","target": "白垣","value": 3},{"source": "白垣","target": "胡青羊","value": 1},{"source": "張無忌","target": "高老者","value": 30},{"source": "小昭","target": "高老者","value": 1},{"source": "高老者","target": "班淑嫻","value": 9},{"source": "高老者","target": "何太沖","value": 9},{"source": "渡劫","target": "高老者","value": 1},{"source": "渡劫","target": "班淑嫻","value": 1},{"source": "張無忌","target": "何足道","value": 4},{"source": "何足道","target": "班淑嫻","value": 1},{"source": "空性","target": "何太沖","value": 2},{"source": "張無忌","target": "陽頂天","value": 4},{"source": "光明使者","target": "韋一笑","value": 1},{"source": "周芷若","target": "小昭","value": 20},{"source": "小昭","target": "周芷若","value": 20},{"source": "小昭","target": "空性","value": 1},{"source": "小昭","target": "宋青書","value": 1},{"source": "周芷若","target": "何太沖","value": 6},{"source": "韋一笑","target": "何足道","value": 2},{"source": "冷謙","target": "張中","value": 1},{"source": "張中","target": "彭瑩玉","value": 2},{"source": "殷天正","target": "彭瑩玉","value": 3},{"source": "彭瑩玉","target": "殷天正","value": 3},{"source": "青翼蝠王","target": "冷謙","value": 1},{"source": "小昭","target": "彭瑩玉","value": 1},{"source": "殷天正","target": "唐洋","value": 1},{"source": "韋一笑","target": "唐洋","value": 1},{"source": "唐洋","target": "殷天正","value": 1},{"source": "張無忌","target": "吳勁草","value": 6},{"source": "吳勁草","target": "殷梨亭","value": 2},{"source": "張無忌","target": "明月","value": 12},{"source": "張無忌","target": "空聞","value": 22},{"source": "明月","target": "空聞","value": 1},{"source": "韋一笑","target": "殷梨亭","value": 6},{"source": "周顛","target": "殷梨亭","value": 2},{"source": "趙一傷","target": "錢二敗","value": 2},{"source": "趙一傷","target": "孫三毀","value": 1},{"source": "趙一傷","target": "李四摧","value": 1},{"source": "錢二敗","target": "孫三毀","value": 1},{"source": "錢二敗","target": "李四摧","value": 1},{"source": "孫三毀","target": "李四摧","value": 5},{"source": "周五輸","target": "吳六破","value": 1},{"source": "周五輸","target": "鄭七滅","value": 1},{"source": "周五輸","target": "王八衰","value": 1},{"source": "吳六破","target": "鄭七滅","value": 1},{"source": "吳六破","target": "王八衰","value": 1},{"source": "鄭七滅","target": "王八衰","value": 1},{"source": "張無忌","target": "趙敏","value": 470},{"source": "趙敏","target": "殷天正","value": 6},{"source": "趙敏","target": "韋一笑","value": 13},{"source": "趙敏","target": "周芷若","value": 184},{"source": "小昭","target": "殷天正","value": 8},{"source": "小昭","target": "周顛","value": 2},{"source": "張無忌","target": "趙一傷","value": 1},{"source": "趙敏","target": "趙一傷","value": 1},{"source": "張無忌","target": "錢二敗","value": 1},{"source": "小昭","target": "殷梨亭","value": 2},{"source": "小昭","target": "韋一笑","value": 1},{"source": "張無忌","target": "聞蒼松","value": 2},{"source": "韋一笑","target": "空見","value": 1},{"source": "韋一笑","target": "彭瑩玉","value": 7},{"source": "彭瑩玉","target": "殷野王","value": 3},{"source": "周顛","target": "顏垣","value": 2},{"source": "張無忌","target": "知客道人","value": 2},{"source": "清風","target": "知客道人","value": 1},{"source": "明月","target": "知客道人","value": 1},{"source": "張三丰","target": "清風","value": 2},{"source": "張三丰","target": "知客道人","value": 3},{"source": "張三丰","target": "明月","value": 1},{"source": "趙敏","target": "張三丰","value": 16},{"source": "趙敏","target": "知客道人","value": 1},{"source": "趙敏","target": "空聞","value": 3},{"source": "趙敏","target": "空智","value": 9},{"source": "張三丰","target": "韋一笑","value": 6},{"source": "趙敏","target": "青翼蝠王","value": 1},{"source": "張三丰","target": "青翼蝠王","value": 1},{"source": "張三丰","target": "遊行散人","value": 1},{"source": "張三丰","target": "說不得","value": 4},{"source": "遊行散人","target": "說不得","value": 1},{"source": "光明使者","target": "白眉鷹王","value": 1},{"source": "光明使者","target": "說不得","value": 1},{"source": "韋一笑","target": "明月","value": 1},{"source": "說不得","target": "明月","value": 1},{"source": "趙敏","target": "白眉鷹王","value": 1},{"source": "趙敏","target": "說不得","value": 9},{"source": "張中","target": "殷野王","value": 1},{"source": "阿二","target": "阿三","value": 10},{"source": "趙敏","target": "周顛","value": 3},{"source": "趙敏","target": "阿三","value": 4},{"source": "韋一笑","target": "阿二","value": 1},{"source": "空性","target": "阿三","value": 2},{"source": "殷天正","target": "空性","value": 2},{"source": "白眉鷹王","target": "阿三","value": 1},{"source": "張三丰","target": "阿二","value": 1},{"source": "張三丰","target": "阿三","value": 6},{"source": "張無忌","target": "阿三","value": 14},{"source": "說不得","target": "阿三","value": 1},{"source": "周顛","target": "阿三","value": 1},{"source": "殷野王","target": "阿三","value": 1},{"source": "阿三","target": "剛相","value": 1},{"source": "胡青牛","target": "阿三","value": 1},{"source": "張無忌","target": "阿二","value": 8},{"source": "張無忌","target": "顏垣","value": 3},{"source": "顏垣","target": "阿二","value": 1},{"source": "趙敏","target": "顏垣","value": 2},{"source": "趙敏","target": "小昭","value": 39},{"source": "張無忌","target": "方東白","value": 4},{"source": "阿二","target": "方東白","value": 3},{"source": "趙敏","target": "方東白","value": 1},{"source": "阿三","target": "方東白","value": 1},{"source": "張無忌","target": "玄冥二老","value": 33},{"source": "韋一笑","target": "玄冥二老","value": 1},{"source": "趙敏","target": "阿二","value": 3},{"source": "阿二","target": "玄冥二老","value": 3},{"source": "阿三","target": "玄冥二老","value": 3},{"source": "顏垣","target": "殷梨亭","value": 1},{"source": "王難姑","target": "殷梨亭","value": 1},{"source": "趙敏","target": "殷梨亭","value": 7},{"source": "趙敏","target": "玄冥二老","value": 17},{"source": "趙敏","target": "錢二敗","value": 1},{"source": "周顛","target": "何太沖","value": 1},{"source": "趙敏","target": "彭瑩玉","value": 7},{"source": "小昭","target": "張三丰","value": 1},{"source": "小昭","target": "殷野王","value": 2},{"source": "張三丰","target": "周顛","value": 1},{"source": "張三丰","target": "殷野王","value": 1},{"source": "聞蒼松","target": "常遇春","value": 1},{"source": "張無忌","target": "湯和","value": 3},{"source": "張無忌","target": "鄧愈","value": 3},{"source": "張無忌","target": "花雲","value": 1},{"source": "張無忌","target": "吳良","value": 1},{"source": "張無忌","target": "吳禎","value": 1},{"source": "徐達","target": "吳禎","value": 2},{"source": "湯和","target": "吳良","value": 2},{"source": "湯和","target": "吳禎","value": 2},{"source": "鄧愈","target": "吳良","value": 2},{"source": "鄧愈","target": "吳禎","value": 2},{"source": "花雲","target": "吳良","value": 2},{"source": "花雲","target": "吳禎","value": 2},{"source": "光明左使","target": "韋一笑","value": 2},{"source": "光明左使","target": "青翼蝠王","value": 2},{"source": "常遇春","target": "湯和","value": 2},{"source": "常遇春","target": "鄧愈","value": 2},{"source": "常遇春","target": "花雲","value": 1},{"source": "常遇春","target": "吳良","value": 1},{"source": "常遇春","target": "吳禎","value": 1},{"source": "韋一笑","target": "朱元璋","value": 1},{"source": "趙敏","target": "何太沖","value": 4},{"source": "趙敏","target": "唐文亮","value": 2},{"source": "周芷若","target": "韋一笑","value": 8},{"source": "韋一笑","target": "周芷若","value": 8},{"source": "唐文亮","target": "何太沖","value": 1},{"source": "張無忌","target": "光明右使","value": 3},{"source": "趙敏","target": "王保保","value": 13},{"source": "空性","target": "阿二","value": 1},{"source": "空性","target": "玄冥二老","value": 1},{"source": "空智","target": "阿二","value": 1},{"source": "空智","target": "阿三","value": 1},{"source": "空智","target": "玄冥二老","value": 1},{"source": "周芷若","target": "郭襄","value": 2},{"source": "郭襄","target": "周芷若","value": 2},{"source": "周芷若","target": "孤鴻子","value": 2},{"source": "韋一笑","target": "王保保","value": 1},{"source": "周芷若","target": "王保保","value": 2},{"source": "張無忌","target": "王保保","value": 15},{"source": "周芷若","target": "班淑嫻","value": 2},{"source": "趙敏","target": "班淑嫻","value": 1},{"source": "何太沖","target": "王保保","value": 1},{"source": "班淑嫻","target": "王保保","value": 1},{"source": "趙敏","target": "宋青書","value": 22},{"source": "宋青書","target": "空聞","value": 1},{"source": "宋青書","target": "空智","value": 1},{"source": "趙敏","target": "丁敏君","value": 1},{"source": "張無忌","target": "殷離","value": 55},{"source": "殷離","target": "殷野王","value": 2},{"source": "丁敏君","target": "靜玄師太","value": 1},{"source": "趙敏","target": "渡劫","value": 4},{"source": "金毛獅王","target": "季長老","value": 2},{"source": "金毛獅王","target": "鄭長老","value": 2},{"source": "季長老","target": "鄭長老","value": 3},{"source": "張無忌","target": "季長老","value": 2},{"source": "張無忌","target": "鄭長老","value": 5},{"source": "陳友諒","target": "鄭長老","value": 3},{"source": "張無忌","target": "陳友諒","value": 53},{"source": "趙敏","target": "陳友諒","value": 14},{"source": "趙敏","target": "鄭長老","value": 3},{"source": "張無忌","target": "紫衫龍王","value": 3},{"source": "紫衫龍王","target": "胡青牛","value": 1},{"source": "殷離","target": "小昭","value": 12},{"source": "趙敏","target": "殷離","value": 31},{"source": "周芷若","target": "殷離","value": 26},{"source": "殷離","target": "周芷若","value": 26},{"source": "趙敏","target": "金毛獅王","value": 6},{"source": "趙敏","target": "黛綺絲","value": 7},{"source": "白眉鷹王","target": "彭瑩玉","value": 1},{"source": "黛綺絲","target": "胡青牛","value": 1},{"source": "光明右使","target": "黛綺絲","value": 1},{"source": "趙敏","target": "紫衫龍王","value": 4},{"source": "小昭","target": "黛綺絲","value": 12},{"source": "小昭","target": "紫衫龍王","value": 6},{"source": "黛綺絲","target": "紫衫龍王","value": 2},{"source": "周芷若","target": "紫衫龍王","value": 1},{"source": "紫衫龍王","target": "周芷若","value": 1},{"source": "周芷若","target": "黛綺絲","value": 1},{"source": "黛綺絲","target": "周芷若","value": 1},{"source": "黛綺絲","target": "金毛獅王","value": 1},{"source": "張無忌","target": "黛綺絲","value": 8},{"source": "殷離","target": "紫衫龍王","value": 1},{"source": "殷離","target": "胡青牛","value": 1},{"source": "周芷若","target": "明月","value": 1},{"source": "明月","target": "周芷若","value": 1},{"source": "張無忌","target": "掌缽龍頭","value": 2},{"source": "張無忌","target": "史火龍","value": 22},{"source": "金毛獅王","target": "史火龍","value": 2},{"source": "金毛獅王","target": "掌缽龍頭","value": 1},{"source": "史火龍","target": "掌缽龍頭","value": 3},{"source": "宋青書","target": "史火龍","value": 2},{"source": "宋青書","target": "陳友諒","value": 30},{"source": "史火龍","target": "陳友諒","value": 14},{"source": "金毛獅王","target": "執法長老","value": 2},{"source": "張無忌","target": "執法長老","value": 11},{"source": "紫衫龍王","target": "執法長老","value": 1},{"source": "紫衫龍王","target": "武烈","value": 1},{"source": "執法長老","target": "武烈","value": 1},{"source": "史火龍","target": "執法長老","value": 2},{"source": "史火龍","target": "季長老","value": 1},{"source": "執法長老","target": "季長老","value": 1},{"source": "張三丰","target": "執法長老","value": 2},{"source": "張三丰","target": "陳友諒","value": 3},{"source": "執法長老","target": "陳友諒","value": 5},{"source": "護教法王","target": "陳友諒","value": 1},{"source": "韓林兒","target": "執法長老","value": 1},{"source": "韓林兒","target": "陳友諒","value": 4},{"source": "張無忌","target": "韓林兒","value": 22},{"source": "彭瑩玉","target": "朱元璋","value": 2},{"source": "傳功長老","target": "執法長老","value": 8},{"source": "傳功長老","target": "掌棒龍頭","value": 3},{"source": "傳功長老","target": "掌缽龍頭","value": 3},{"source": "執法長老","target": "掌棒龍頭","value": 7},{"source": "執法長老","target": "掌缽龍頭","value": 6},{"source": "掌棒龍頭","target": "掌缽龍頭","value": 6},{"source": "陳友諒","target": "玄冥二老","value": 2},{"source": "趙敏","target": "韓林兒","value": 5},{"source": "趙敏","target": "史火龍","value": 1},{"source": "史火龍","target": "玄冥二老","value": 1},{"source": "趙敏","target": "掌棒龍頭","value": 7},{"source": "宋青書","target": "掌棒龍頭","value": 16},{"source": "掌棒龍頭","target": "陳友諒","value": 7},{"source": "傳功長老","target": "玄冥二老","value": 1},{"source": "執法長老","target": "玄冥二老","value": 1},{"source": "張無忌","target": "掌棒龍頭","value": 6},{"source": "史火龍","target": "掌棒龍頭","value": 4},{"source": "掌缽龍頭","target": "陳友諒","value": 13},{"source": "周芷若","target": "傳功長老","value": 4},{"source": "宋青書","target": "執法長老","value": 5},{"source": "宋青書","target": "掌缽龍頭","value": 18},{"source": "韓林兒","target": "掌棒龍頭","value": 3},{"source": "光明使者","target": "紀曉芙","value": 1},{"source": "光明使者","target": "陳友諒","value": 1},{"source": "紀曉芙","target": "陳友諒","value": 1},{"source": "張無忌","target": "傳功長老","value": 9},{"source": "傳功長老","target": "陳友諒","value": 5},{"source": "周芷若","target": "陳友諒","value": 6},{"source": "周芷若","target": "史火龍","value": 4},{"source": "韓林兒","target": "史火龍","value": 2},{"source": "韓林兒","target": "黃衫女子","value": 2},{"source": "掌棒龍頭","target": "黃衫女子","value": 2},{"source": "傳功長老","target": "黃衫女子","value": 4},{"source": "執法長老","target": "黃衫女子","value": 2},{"source": "掌缽龍頭","target": "黃衫女子","value": 1},{"source": "白眉鷹王","target": "傳功長老","value": 1},{"source": "白眉鷹王","target": "執法長老","value": 1},{"source": "韋一笑","target": "傳功長老","value": 1},{"source": "韋一笑","target": "執法長老","value": 1},{"source": "青翼蝠王","target": "傳功長老","value": 1},{"source": "青翼蝠王","target": "執法長老","value": 1},{"source": "史火龍","target": "傳功長老","value": 4},{"source": "張無忌","target": "黃衫女子","value": 8},{"source": "史火龍","target": "黃衫女子","value": 4},{"source": "陳友諒","target": "黃衫女子","value": 2},{"source": "史紅石","target": "傳功長老","value": 3},{"source": "史紅石","target": "黃衫女子","value": 3},{"source": "殷野王","target": "空見","value": 1},{"source": "宋青書","target": "史紅石","value": 1},{"source": "宋青書","target": "黃衫女子","value": 1},{"source": "史紅石","target": "陳友諒","value": 1},{"source": "張無忌","target": "史紅石","value": 1},{"source": "金毛獅王","target": "傳功長老","value": 2},{"source": "韓林兒","target": "傳功長老","value": 1},{"source": "周芷若","target": "韓林兒","value": 13},{"source": "韓林兒","target": "周芷若","value": 13},{"source": "周芷若","target": "金毛獅王","value": 1},{"source": "金毛獅王","target": "周芷若","value": 1},{"source": "彭瑩玉","target": "韓林兒","value": 8},{"source": "金毛獅王","target": "彭瑩玉","value": 1},{"source": "張三丰","target": "宋青書","value": 4},{"source": "韋一笑","target": "宋青書","value": 1},{"source": "韋一笑","target": "陳友諒","value": 1},{"source": "殷天正","target": "常遇春","value": 1},{"source": "常遇春","target": "殷天正","value": 1},{"source": "趙敏","target": "光明左使","value": 1},{"source": "殷天正","target": "青翼蝠王","value": 2},{"source": "青翼蝠王","target": "殷天正","value": 2},{"source": "王保保","target": "玄冥二老","value": 4},{"source": "張無忌","target": "秦老五","value": 3},{"source": "趙敏","target": "秦老五","value": 1},{"source": "趙敏","target": "壽南山","value": 3},{"source": "張無忌","target": "壽南山","value": 5},{"source": "金毛獅王","target": "壽南山","value": 3},{"source": "金毛獅王","target": "秦老五","value": 1},{"source": "壽南山","target": "秦老五","value": 1},{"source": "杜百當","target": "易三娘","value": 8},{"source": "易三娘","target": "馬法通","value": 6},{"source": "易三娘","target": "邵鶴","value": 2},{"source": "馬法通","target": "邵鶴","value": 2},{"source": "杜百當","target": "馬法通","value": 1},{"source": "杜百當","target": "邵鶴","value": 1},{"source": "張無忌","target": "易三娘","value": 5},{"source": "空見","target": "馬法通","value": 1},{"source": "趙敏","target": "易三娘","value": 2},{"source": "光明左使","target": "殷天正","value": 2},{"source": "渡厄","target": "渡劫","value": 26},{"source": "渡厄","target": "渡難","value": 12},{"source": "渡劫","target": "渡難","value": 15},{"source": "張無忌","target": "渡劫","value": 20},{"source": "空性","target": "渡劫","value": 2},{"source": "趙敏","target": "空見","value": 3},{"source": "趙敏","target": "空性","value": 2},{"source": "金毛獅王","target": "空性","value": 1},{"source": "金毛獅王","target": "渡劫","value": 1},{"source": "空見","target": "渡劫","value": 1},{"source": "張無忌","target": "渡厄","value": 27},{"source": "張無忌","target": "渡難","value": 14},{"source": "陽頂天","target": "空見","value": 2},{"source": "張無忌","target": "杜百當","value": 2},{"source": "趙敏","target": "杜百當","value": 2},{"source": "周顛","target": "空智","value": 1},{"source": "周顛","target": "空性","value": 1},{"source": "陽頂天","target": "渡厄","value": 1},{"source": "韋一笑","target": "渡厄","value": 2},{"source": "光明使者","target": "渡厄","value": 1},{"source": "白眉鷹王","target": "空聞","value": 1},{"source": "殷天正","target": "渡難","value": 20},{"source": "韋一笑","target": "空聞","value": 1},{"source": "韋一笑","target": "空智","value": 1},{"source": "殷天正","target": "渡厄","value": 2},{"source": "殷天正","target": "渡劫","value": 4},{"source": "白眉鷹王","target": "何足道","value": 1},{"source": "趙敏","target": "渡厄","value": 1},{"source": "空聞","target": "渡厄","value": 3},{"source": "空聞","target": "陳友諒","value": 1},{"source": "渡厄","target": "陳友諒","value": 1},{"source": "張無忌","target": "司徒千鍾","value": 2},{"source": "彭瑩玉","target": "司徒千鍾","value": 1},{"source": "空智","target": "史火龍","value": 1},{"source": "史火龍","target": "史紅石","value": 1},{"source": "史紅石","target": "掌棒龍頭","value": 1},{"source": "史紅石","target": "掌缽龍頭","value": 1},{"source": "空聞","target": "傳功長老","value": 1},{"source": "空智","target": "執法長老","value": 2},{"source": "空智","target": "掌棒龍頭","value": 3},{"source": "周芷若","target": "空聞","value": 10},{"source": "韓林兒","target": "宋青書","value": 1},{"source": "金毛獅王","target": "掌棒龍頭","value": 1},{"source": "青翼蝠王","target": "司徒千鍾","value": 1},{"source": "空智","target": "司徒千鍾","value": 2},{"source": "周顛","target": "司徒千鍾","value": 2},{"source": "趙敏","target": "司徒千鍾","value": 1},{"source": "張無忌","target": "歐陽牧之","value": 1},{"source": "彭瑩玉","target": "歐陽牧之","value": 1},{"source": "宗維俠","target": "司徒千鍾","value": 1},{"source": "說不得","target": "司徒千鍾","value": 2},{"source": "張三丰","target": "司徒千鍾","value": 1},{"source": "高老者","target": "執法長老","value": 1},{"source": "周芷若","target": "掌缽龍頭","value": 2},{"source": "殷梨亭","target": "掌缽龍頭","value": 1},{"source": "空智","target": "掌缽龍頭","value": 1},{"source": "周顛","target": "宋青書","value": 1},{"source": "周芷若","target": "周顛","value": 5},{"source": "周顛","target": "周芷若","value": 5},{"source": "周芷若","target": "渡厄","value": 4},{"source": "趙敏","target": "明月","value": 1},{"source": "周芷若","target": "何足道","value": 2},{"source": "周芷若","target": "史紅石","value": 2},{"source": "周芷若","target": "渡難","value": 6},{"source": "周芷若","target": "渡劫","value": 2},{"source": "周顛","target": "渡厄","value": 2},{"source": "周芷若","target": "黃衫女子","value": 14},{"source": "周顛","target": "黃衫女子","value": 1},{"source": "金毛獅王","target": "黃衫女子","value": 1},{"source": "顏垣","target": "空聞","value": 2},{"source": "周芷若","target": "空智","value": 6},{"source": "空智","target": "渡厄","value": 1},{"source": "吳勁草","target": "辛然","value": 3},{"source": "趙敏","target": "吳勁草","value": 1},{"source": "說不得","target": "吳勁草","value": 1},{"source": "張無忌","target": "辛然","value": 2},{"source": "張中","target": "辛然","value": 1},{"source": "周顛","target": "辛然","value": 1},{"source": "周芷若","target": "玄冥二老","value": 4},{"source": "渡厄","target": "玄冥二老","value": 1},{"source": "殷野王","target": "殷梨亭","value": 1},{"source": "周顛","target": "貝錦儀","value": 1},{"source": "殷梨亭","target": "空聞","value": 1},{"source": "殷梨亭","target": "空智","value": 1},{"source": "趙敏","target": "殷野王","value": 1},{"source": "周芷若","target": "殷野王","value": 1},{"source": "殷野王","target": "周芷若","value": 1},{"source": "常遇春","target": "韓林兒","value": 3},{"source": "徐達","target": "韓林兒","value": 3},{"source": "殷野王","target": "陳友諒","value": 1},{"source": "趙敏","target": "朱元璋","value": 1},{"source": "朱元璋","target": "韓林兒","value": 4}
+        {
+            "source": "郭襄",
+            "target": "覺遠",
+            "value": 28
+        },
+        {
+            "source": "郭襄",
+            "target": "何足道",
+            "value": 20
+        },
+        {
+            "source": "覺遠",
+            "target": "何足道",
+            "value": 18
+        },
+        {
+            "source": "張三丰",
+            "target": "殷梨亭",
+            "value": 17
+        },
+        {
+            "source": "張三丰",
+            "target": "覺遠",
+            "value": 10
+        },
+        {
+            "source": "張三丰",
+            "target": "何足道",
+            "value": 2
+        },
+        {
+            "source": "張三丰",
+            "target": "空聞",
+            "value": 10
+        },
+        {
+            "source": "張三丰",
+            "target": "空見",
+            "value": 3
+        },
+        {
+            "source": "殷素素",
+            "target": "殷素素",
+            "value": 532
+        },
+        {
+            "source": "殷素素",
+            "target": "常金鵬",
+            "value": 24
+        },
+        {
+            "source": "殷素素",
+            "target": "過三拳",
+            "value": 6
+        },
+        {
+            "source": "常金鵬",
+            "target": "過三拳",
+            "value": 4
+        },
+        {
+            "source": "殷素素",
+            "target": "空見",
+            "value": 6
+        },
+        {
+            "source": "殷素素",
+            "target": "白龜壽",
+            "value": 16
+        },
+        {
+            "source": "殷素素",
+            "target": "高則成",
+            "value": 16
+        },
+        {
+            "source": "白龜壽",
+            "target": "高則成",
+            "value": 1
+        },
+        {
+            "source": "常金鵬",
+            "target": "白龜壽",
+            "value": 9
+        },
+        {
+            "source": "殷素素",
+            "target": "蔣濤",
+            "value": 12
+        },
+        {
+            "source": "高則成",
+            "target": "蔣濤",
+            "value": 16
+        },
+        {
+            "source": "張三丰",
+            "target": "殷素素",
+            "value": 4
+        },
+        {
+            "source": "常金鵬",
+            "target": "高則成",
+            "value": 1
+        },
+        {
+            "source": "金毛獅王",
+            "target": "白龜壽",
+            "value": 2
+        },
+        {
+            "source": "金毛獅王",
+            "target": "常金鵬",
+            "value": 1
+        },
+        {
+            "source": "元廣波",
+            "target": "張登雲",
+            "value": 2
+        },
+        {
+            "source": "麥鯨",
+            "target": "蔡四",
+            "value": 1
+        },
+        {
+            "source": "麥鯨",
+            "target": "花青山",
+            "value": 1
+        },
+        {
+            "source": "麥鯨",
+            "target": "海馬胡六",
+            "value": 1
+        },
+        {
+            "source": "蔡四",
+            "target": "花青山",
+            "value": 1
+        },
+        {
+            "source": "蔡四",
+            "target": "海馬胡六",
+            "value": 1
+        },
+        {
+            "source": "花青山",
+            "target": "海馬胡六",
+            "value": 1
+        },
+        {
+            "source": "麥鯨",
+            "target": "過三拳",
+            "value": 3
+        },
+        {
+            "source": "白龜壽",
+            "target": "過三拳",
+            "value": 2
+        },
+        {
+            "source": "殷素素",
+            "target": "元廣波",
+            "value": 2
+        },
+        {
+            "source": "殷素素",
+            "target": "麥鯨",
+            "value": 2
+        },
+        {
+            "source": "常金鵬",
+            "target": "元廣波",
+            "value": 1
+        },
+        {
+            "source": "常金鵬",
+            "target": "麥鯨",
+            "value": 1
+        },
+        {
+            "source": "白龜壽",
+            "target": "元廣波",
+            "value": 1
+        },
+        {
+            "source": "白龜壽",
+            "target": "麥鯨",
+            "value": 1
+        },
+        {
+            "source": "元廣波",
+            "target": "麥鯨",
+            "value": 1
+        },
+        {
+            "source": "元廣波",
+            "target": "過三拳",
+            "value": 1
+        },
+        {
+            "source": "張三丰",
+            "target": "空智",
+            "value": 5
+        },
+        {
+            "source": "張三丰",
+            "target": "空性",
+            "value": 5
+        },
+        {
+            "source": "空聞",
+            "target": "空智",
+            "value": 55
+        },
+        {
+            "source": "空聞",
+            "target": "空性",
+            "value": 17
+        },
+        {
+            "source": "空智",
+            "target": "空性",
+            "value": 20
+        },
+        {
+            "source": "殷天正",
+            "target": "殷天正",
+            "value": 188
+        },
+        {
+            "source": "殷素素",
+            "target": "說不得",
+            "value": 1
+        },
+        {
+            "source": "說不得",
+            "target": "殷素素",
+            "value": 1
+        },
+        {
+            "source": "殷素素",
+            "target": "殷天正",
+            "value": 8
+        },
+        {
+            "source": "殷素素",
+            "target": "白眉鷹王",
+            "value": 1
+        },
+        {
+            "source": "殷天正",
+            "target": "白眉鷹王",
+            "value": 12
+        },
+        {
+            "source": "殷天正",
+            "target": "殷素素",
+            "value": 8
+        },
+        {
+            "source": "白眉鷹王",
+            "target": "殷天正",
+            "value": 12
+        },
+        {
+            "source": "白眉鷹王",
+            "target": "殷素素",
+            "value": 1
+        },
+        {
+            "source": "殷素素",
+            "target": "金毛獅王",
+            "value": 4
+        },
+        {
+            "source": "金毛獅王",
+            "target": "殷素素",
+            "value": 4
+        },
+        {
+            "source": "空見",
+            "target": "空聞",
+            "value": 9
+        },
+        {
+            "source": "空見",
+            "target": "空智",
+            "value": 9
+        },
+        {
+            "source": "空見",
+            "target": "空性",
+            "value": 10
+        },
+        {
+            "source": "程壇主",
+            "target": "封壇主",
+            "value": 5
+        },
+        {
+            "source": "殷素素",
+            "target": "殷野王",
+            "value": 2
+        },
+        {
+            "source": "殷素素",
+            "target": "李天垣",
+            "value": 16
+        },
+        {
+            "source": "殷天正",
+            "target": "殷野王",
+            "value": 28
+        },
+        {
+            "source": "殷天正",
+            "target": "李天垣",
+            "value": 4
+        },
+        {
+            "source": "殷野王",
+            "target": "殷素素",
+            "value": 2
+        },
+        {
+            "source": "殷野王",
+            "target": "李天垣",
+            "value": 2
+        },
+        {
+            "source": "殷素素",
+            "target": "封壇主",
+            "value": 4
+        },
+        {
+            "source": "殷素素",
+            "target": "程壇主",
+            "value": 2
+        },
+        {
+            "source": "李天垣",
+            "target": "程壇主",
+            "value": 1
+        },
+        {
+            "source": "靜虛師太",
+            "target": "唐文亮",
+            "value": 3
+        },
+        {
+            "source": "殷天正",
+            "target": "唐文亮",
+            "value": 14
+        },
+        {
+            "source": "金毛獅王",
+            "target": "唐文亮",
+            "value": 2
+        },
+        {
+            "source": "殷素素",
+            "target": "唐文亮",
+            "value": 2
+        },
+        {
+            "source": "殷天正",
+            "target": "靜虛師太",
+            "value": 2
+        },
+        {
+            "source": "程壇主",
+            "target": "唐文亮",
+            "value": 1
+        },
+        {
+            "source": "封壇主",
+            "target": "唐文亮",
+            "value": 1
+        },
+        {
+            "source": "殷素素",
+            "target": "賀老三",
+            "value": 4
+        },
+        {
+            "source": "梅石堅",
+            "target": "賀老三",
+            "value": 1
+        },
+        {
+            "source": "殷素素",
+            "target": "覺遠",
+            "value": 2
+        },
+        {
+            "source": "殷素素",
+            "target": "郭襄",
+            "value": 2
+        },
+        {
+            "source": "殷素素",
+            "target": "泉建男",
+            "value": 2
+        },
+        {
+            "source": "殷素素",
+            "target": "殷梨亭",
+            "value": 6
+        },
+        {
+            "source": "金毛獅王",
+            "target": "孟正鴻",
+            "value": 1
+        },
+        {
+            "source": "金毛獅王",
+            "target": "孟正鵬",
+            "value": 1
+        },
+        {
+            "source": "孟正鴻",
+            "target": "孟正鵬",
+            "value": 1
+        },
+        {
+            "source": "殷梨亭",
+            "target": "祁天彪",
+            "value": 2
+        },
+        {
+            "source": "殷梨亭",
+            "target": "雲鶴",
+            "value": 1
+        },
+        {
+            "source": "殷梨亭",
+            "target": "宮九佳",
+            "value": 1
+        },
+        {
+            "source": "祁天彪",
+            "target": "雲鶴",
+            "value": 4
+        },
+        {
+            "source": "祁天彪",
+            "target": "宮九佳",
+            "value": 4
+        },
+        {
+            "source": "雲鶴",
+            "target": "宮九佳",
+            "value": 3
+        },
+        {
+            "source": "金毛獅王",
+            "target": "殷梨亭",
+            "value": 1
+        },
+        {
+            "source": "殷無福",
+            "target": "祁天彪",
+            "value": 1
+        },
+        {
+            "source": "殷無福",
+            "target": "宮九佳",
+            "value": 1
+        },
+        {
+            "source": "殷無福",
+            "target": "譚瑞",
+            "value": 2
+        },
+        {
+            "source": "祁天彪",
+            "target": "譚瑞",
+            "value": 1
+        },
+        {
+            "source": "宮九佳",
+            "target": "譚瑞",
+            "value": 1
+        },
+        {
+            "source": "何太沖",
+            "target": "班淑嫻",
+            "value": 35
+        },
+        {
+            "source": "張三丰",
+            "target": "何太沖",
+            "value": 2
+        },
+        {
+            "source": "殷梨亭",
+            "target": "紀曉芙",
+            "value": 22
+        },
+        {
+            "source": "紀曉芙",
+            "target": "貝錦儀",
+            "value": 8
+        },
+        {
+            "source": "張三丰",
+            "target": "靜玄師太",
+            "value": 1
+        },
+        {
+            "source": "靜虛師太",
+            "target": "靜玄師太",
+            "value": 1
+        },
+        {
+            "source": "靜虛師太",
+            "target": "關能",
+            "value": 1
+        },
+        {
+            "source": "靜虛師太",
+            "target": "宗維俠",
+            "value": 1
+        },
+        {
+            "source": "靜虛師太",
+            "target": "常敬之",
+            "value": 1
+        },
+        {
+            "source": "靜玄師太",
+            "target": "關能",
+            "value": 4
+        },
+        {
+            "source": "靜玄師太",
+            "target": "宗維俠",
+            "value": 1
+        },
+        {
+            "source": "靜玄師太",
+            "target": "唐文亮",
+            "value": 1
+        },
+        {
+            "source": "靜玄師太",
+            "target": "常敬之",
+            "value": 1
+        },
+        {
+            "source": "關能",
+            "target": "宗維俠",
+            "value": 1
+        },
+        {
+            "source": "關能",
+            "target": "唐文亮",
+            "value": 1
+        },
+        {
+            "source": "關能",
+            "target": "常敬之",
+            "value": 1
+        },
+        {
+            "source": "宗維俠",
+            "target": "唐文亮",
+            "value": 2
+        },
+        {
+            "source": "宗維俠",
+            "target": "常敬之",
+            "value": 4
+        },
+        {
+            "source": "唐文亮",
+            "target": "常敬之",
+            "value": 6
+        },
+        {
+            "source": "覺遠",
+            "target": "空聞",
+            "value": 1
+        },
+        {
+            "source": "靜玄師太",
+            "target": "何太沖",
+            "value": 3
+        },
+        {
+            "source": "關能",
+            "target": "何太沖",
+            "value": 3
+        },
+        {
+            "source": "金毛獅王",
+            "target": "空見",
+            "value": 4
+        },
+        {
+            "source": "殷素素",
+            "target": "紀曉芙",
+            "value": 4
+        },
+        {
+            "source": "靜玄師太",
+            "target": "空聞",
+            "value": 2
+        },
+        {
+            "source": "空聞",
+            "target": "關能",
+            "value": 2
+        },
+        {
+            "source": "空聞",
+            "target": "何太沖",
+            "value": 3
+        },
+        {
+            "source": "殷素素",
+            "target": "空聞",
+            "value": 10
+        },
+        {
+            "source": "金毛獅王",
+            "target": "空聞",
+            "value": 1
+        },
+        {
+            "source": "紀曉芙",
+            "target": "靜玄師太",
+            "value": 1
+        },
+        {
+            "source": "殷梨亭",
+            "target": "覺遠",
+            "value": 1
+        },
+        {
+            "source": "張三丰",
+            "target": "郭襄",
+            "value": 2
+        },
+        {
+            "source": "覺遠",
+            "target": "空智",
+            "value": 2
+        },
+        {
+            "source": "張無忌",
+            "target": "張三丰",
+            "value": 55
+        },
+        {
+            "source": "周芷若",
+            "target": "張三丰",
+            "value": 7
+        },
+        {
+            "source": "周芷若",
+            "target": "周芷若",
+            "value": 765
+        },
+        {
+            "source": "張三丰",
+            "target": "周芷若",
+            "value": 7
+        },
+        {
+            "source": "張三丰",
+            "target": "常遇春",
+            "value": 16
+        },
+        {
+            "source": "周芷若",
+            "target": "常遇春",
+            "value": 3
+        },
+        {
+            "source": "常遇春",
+            "target": "周芷若",
+            "value": 3
+        },
+        {
+            "source": "張無忌",
+            "target": "周芷若",
+            "value": 484
+        },
+        {
+            "source": "張無忌",
+            "target": "常遇春",
+            "value": 50
+        },
+        {
+            "source": "張三丰",
+            "target": "胡青牛",
+            "value": 4
+        },
+        {
+            "source": "胡青牛",
+            "target": "常遇春",
+            "value": 24
+        },
+        {
+            "source": "張無忌",
+            "target": "殷梨亭",
+            "value": 48
+        },
+        {
+            "source": "張無忌",
+            "target": "紀曉芙",
+            "value": 69
+        },
+        {
+            "source": "張無忌",
+            "target": "白龜壽",
+            "value": 1
+        },
+        {
+            "source": "常遇春",
+            "target": "白龜壽",
+            "value": 1
+        },
+        {
+            "source": "丁敏君",
+            "target": "紀曉芙",
+            "value": 33
+        },
+        {
+            "source": "彭瑩玉",
+            "target": "白龜壽",
+            "value": 2
+        },
+        {
+            "source": "彭瑩玉",
+            "target": "丁敏君",
+            "value": 3
+        },
+        {
+            "source": "白龜壽",
+            "target": "丁敏君",
+            "value": 1
+        },
+        {
+            "source": "張無忌",
+            "target": "丁敏君",
+            "value": 18
+        },
+        {
+            "source": "殷梨亭",
+            "target": "丁敏君",
+            "value": 5
+        },
+        {
+            "source": "常遇春",
+            "target": "丁敏君",
+            "value": 1
+        },
+        {
+            "source": "張無忌",
+            "target": "胡青牛",
+            "value": 99
+        },
+        {
+            "source": "白眉鷹王",
+            "target": "胡青牛",
+            "value": 1
+        },
+        {
+            "source": "白眉鷹王",
+            "target": "常遇春",
+            "value": 1
+        },
+        {
+            "source": "張無忌",
+            "target": "殷素素",
+            "value": 6
+        },
+        {
+            "source": "常遇春",
+            "target": "紀曉芙",
+            "value": 3
+        },
+        {
+            "source": "紀曉芙",
+            "target": "簡捷",
+            "value": 3
+        },
+        {
+            "source": "張無忌",
+            "target": "簡捷",
+            "value": 18
+        },
+        {
+            "source": "胡青牛",
+            "target": "紀曉芙",
+            "value": 17
+        },
+        {
+            "source": "胡青牛",
+            "target": "簡捷",
+            "value": 6
+        },
+        {
+            "source": "張無忌",
+            "target": "薛公遠",
+            "value": 15
+        },
+        {
+            "source": "胡青牛",
+            "target": "薛公遠",
+            "value": 3
+        },
+        {
+            "source": "簡捷",
+            "target": "薛公遠",
+            "value": 25
+        },
+        {
+            "source": "胡青牛",
+            "target": "王難姑",
+            "value": 14
+        },
+        {
+            "source": "王難姑",
+            "target": "紀曉芙",
+            "value": 1
+        },
+        {
+            "source": "張無忌",
+            "target": "王難姑",
+            "value": 11
+        },
+        {
+            "source": "張無忌",
+            "target": "金毛獅王",
+            "value": 21
+        },
+        {
+            "source": "丁敏君",
+            "target": "貝錦儀",
+            "value": 7
+        },
+        {
+            "source": "張無忌",
+            "target": "郭襄",
+            "value": 2
+        },
+        {
+            "source": "郭襄",
+            "target": "紀曉芙",
+            "value": 2
+        },
+        {
+            "source": "金毛獅王",
+            "target": "紀曉芙",
+            "value": 1
+        },
+        {
+            "source": "張無忌",
+            "target": "貝錦儀",
+            "value": 2
+        },
+        {
+            "source": "光明左使",
+            "target": "紀曉芙",
+            "value": 1
+        },
+        {
+            "source": "孤鴻子",
+            "target": "紀曉芙",
+            "value": 3
+        },
+        {
+            "source": "紀曉芙",
+            "target": "薛公遠",
+            "value": 1
+        },
+        {
+            "source": "張三丰",
+            "target": "薛公遠",
+            "value": 2
+        },
+        {
+            "source": "徐達",
+            "target": "簡捷",
+            "value": 2
+        },
+        {
+            "source": "徐達",
+            "target": "薛公遠",
+            "value": 1
+        },
+        {
+            "source": "張無忌",
+            "target": "徐達",
+            "value": 14
+        },
+        {
+            "source": "吳良",
+            "target": "吳禎",
+            "value": 4
+        },
+        {
+            "source": "張無忌",
+            "target": "朱元璋",
+            "value": 18
+        },
+        {
+            "source": "徐達",
+            "target": "吳良",
+            "value": 3
+        },
+        {
+            "source": "朱元璋",
+            "target": "吳良",
+            "value": 4
+        },
+        {
+            "source": "朱元璋",
+            "target": "吳禎",
+            "value": 3
+        },
+        {
+            "source": "朱元璋",
+            "target": "徐達",
+            "value": 19
+        },
+        {
+            "source": "鄧愈",
+            "target": "花雲",
+            "value": 4
+        },
+        {
+            "source": "朱元璋",
+            "target": "湯和",
+            "value": 9
+        },
+        {
+            "source": "朱元璋",
+            "target": "鄧愈",
+            "value": 9
+        },
+        {
+            "source": "朱元璋",
+            "target": "花雲",
+            "value": 4
+        },
+        {
+            "source": "徐達",
+            "target": "湯和",
+            "value": 7
+        },
+        {
+            "source": "徐達",
+            "target": "鄧愈",
+            "value": 7
+        },
+        {
+            "source": "徐達",
+            "target": "花雲",
+            "value": 3
+        },
+        {
+            "source": "湯和",
+            "target": "鄧愈",
+            "value": 10
+        },
+        {
+            "source": "湯和",
+            "target": "花雲",
+            "value": 3
+        },
+        {
+            "source": "常遇春",
+            "target": "簡捷",
+            "value": 1
+        },
+        {
+            "source": "常遇春",
+            "target": "薛公遠",
+            "value": 1
+        },
+        {
+            "source": "詹春",
+            "target": "蘇習之",
+            "value": 15
+        },
+        {
+            "source": "張無忌",
+            "target": "詹春",
+            "value": 11
+        },
+        {
+            "source": "張無忌",
+            "target": "蘇習之",
+            "value": 6
+        },
+        {
+            "source": "何太沖",
+            "target": "詹春",
+            "value": 15
+        },
+        {
+            "source": "何太沖",
+            "target": "蘇習之",
+            "value": 1
+        },
+        {
+            "source": "何太沖",
+            "target": "五姑",
+            "value": 19
+        },
+        {
+            "source": "五姑",
+            "target": "詹春",
+            "value": 9
+        },
+        {
+            "source": "張無忌",
+            "target": "何太沖",
+            "value": 77
+        },
+        {
+            "source": "簡捷",
+            "target": "何太沖",
+            "value": 1
+        },
+        {
+            "source": "簡捷",
+            "target": "詹春",
+            "value": 1
+        },
+        {
+            "source": "張無忌",
+            "target": "五姑",
+            "value": 14
+        },
+        {
+            "source": "紀曉芙",
+            "target": "何太沖",
+            "value": 2
+        },
+        {
+            "source": "班淑嫻",
+            "target": "五姑",
+            "value": 3
+        },
+        {
+            "source": "張無忌",
+            "target": "班淑嫻",
+            "value": 26
+        },
+        {
+            "source": "班淑嫻",
+            "target": "詹春",
+            "value": 1
+        },
+        {
+            "source": "張無忌",
+            "target": "光明左使",
+            "value": 4
+        },
+        {
+            "source": "何太沖",
+            "target": "白鹿子",
+            "value": 1
+        },
+        {
+            "source": "班淑嫻",
+            "target": "白鹿子",
+            "value": 1
+        },
+        {
+            "source": "紀曉芙",
+            "target": "班淑嫻",
+            "value": 1
+        },
+        {
+            "source": "張無忌",
+            "target": "喬福",
+            "value": 8
+        },
+        {
+            "source": "喬福",
+            "target": "小鳳",
+            "value": 5
+        },
+        {
+            "source": "張無忌",
+            "target": "小鳳",
+            "value": 7
+        },
+        {
+            "source": "張無忌",
+            "target": "朱九真",
+            "value": 46
+        },
+        {
+            "source": "朱九真",
+            "target": "喬福",
+            "value": 1
+        },
+        {
+            "source": "朱九真",
+            "target": "小鳳",
+            "value": 1
+        },
+        {
+            "source": "朱九真",
+            "target": "武青嬰",
+            "value": 12
+        },
+        {
+            "source": "張無忌",
+            "target": "武青嬰",
+            "value": 15
+        },
+        {
+            "source": "朱長齡",
+            "target": "朱九真",
+            "value": 17
+        },
+        {
+            "source": "朱長齡",
+            "target": "武青嬰",
+            "value": 3
+        },
+        {
+            "source": "張無忌",
+            "target": "朱長齡",
+            "value": 50
+        },
+        {
+            "source": "張無忌",
+            "target": "姚清泉",
+            "value": 9
+        },
+        {
+            "source": "朱九真",
+            "target": "姚清泉",
+            "value": 5
+        },
+        {
+            "source": "朱長齡",
+            "target": "姚清泉",
+            "value": 11
+        },
+        {
+            "source": "靜玄師太",
+            "target": "空智",
+            "value": 1
+        },
+        {
+            "source": "空智",
+            "target": "關能",
+            "value": 1
+        },
+        {
+            "source": "空智",
+            "target": "何太沖",
+            "value": 1
+        },
+        {
+            "source": "張三丰",
+            "target": "姚清泉",
+            "value": 1
+        },
+        {
+            "source": "金毛獅王",
+            "target": "朱長齡",
+            "value": 6
+        },
+        {
+            "source": "金毛獅王",
+            "target": "姚清泉",
+            "value": 1
+        },
+        {
+            "source": "胡豹",
+            "target": "朱長齡",
+            "value": 3
+        },
+        {
+            "source": "張無忌",
+            "target": "武烈",
+            "value": 10
+        },
+        {
+            "source": "武烈",
+            "target": "朱長齡",
+            "value": 10
+        },
+        {
+            "source": "武烈",
+            "target": "武青嬰",
+            "value": 10
+        },
+        {
+            "source": "武烈",
+            "target": "朱九真",
+            "value": 3
+        },
+        {
+            "source": "胡豹",
+            "target": "武烈",
+            "value": 1
+        },
+        {
+            "source": "胡豹",
+            "target": "姚清泉",
+            "value": 1
+        },
+        {
+            "source": "武烈",
+            "target": "姚清泉",
+            "value": 1
+        },
+        {
+            "source": "張無忌",
+            "target": "衛壁",
+            "value": 4
+        },
+        {
+            "source": "衛壁",
+            "target": "朱九真",
+            "value": 5
+        },
+        {
+            "source": "張無忌",
+            "target": "說不得",
+            "value": 32
+        },
+        {
+            "source": "張無忌",
+            "target": "覺遠",
+            "value": 3
+        },
+        {
+            "source": "丁敏君",
+            "target": "何太沖",
+            "value": 2
+        },
+        {
+            "source": "丁敏君",
+            "target": "班淑嫻",
+            "value": 3
+        },
+        {
+            "source": "丁敏君",
+            "target": "武烈",
+            "value": 2
+        },
+        {
+            "source": "丁敏君",
+            "target": "衛壁",
+            "value": 1
+        },
+        {
+            "source": "丁敏君",
+            "target": "武青嬰",
+            "value": 4
+        },
+        {
+            "source": "何太沖",
+            "target": "武烈",
+            "value": 5
+        },
+        {
+            "source": "何太沖",
+            "target": "衛壁",
+            "value": 3
+        },
+        {
+            "source": "何太沖",
+            "target": "武青嬰",
+            "value": 3
+        },
+        {
+            "source": "班淑嫻",
+            "target": "武烈",
+            "value": 2
+        },
+        {
+            "source": "班淑嫻",
+            "target": "衛壁",
+            "value": 1
+        },
+        {
+            "source": "班淑嫻",
+            "target": "武青嬰",
+            "value": 4
+        },
+        {
+            "source": "武烈",
+            "target": "衛壁",
+            "value": 5
+        },
+        {
+            "source": "衛壁",
+            "target": "武青嬰",
+            "value": 5
+        },
+        {
+            "source": "何太沖",
+            "target": "朱九真",
+            "value": 1
+        },
+        {
+            "source": "周芷若",
+            "target": "丁敏君",
+            "value": 26
+        },
+        {
+            "source": "張無忌",
+            "target": "彭瑩玉",
+            "value": 27
+        },
+        {
+            "source": "周芷若",
+            "target": "彭瑩玉",
+            "value": 8
+        },
+        {
+            "source": "周芷若",
+            "target": "紀曉芙",
+            "value": 6
+        },
+        {
+            "source": "彭瑩玉",
+            "target": "周芷若",
+            "value": 8
+        },
+        {
+            "source": "彭瑩玉",
+            "target": "紀曉芙",
+            "value": 1
+        },
+        {
+            "source": "光明使者",
+            "target": "護教法王",
+            "value": 4
+        },
+        {
+            "source": "胡青牛",
+            "target": "朱元璋",
+            "value": 1
+        },
+        {
+            "source": "胡青牛",
+            "target": "徐達",
+            "value": 1
+        },
+        {
+            "source": "王難姑",
+            "target": "常遇春",
+            "value": 1
+        },
+        {
+            "source": "王難姑",
+            "target": "朱元璋",
+            "value": 1
+        },
+        {
+            "source": "王難姑",
+            "target": "徐達",
+            "value": 1
+        },
+        {
+            "source": "常遇春",
+            "target": "朱元璋",
+            "value": 10
+        },
+        {
+            "source": "常遇春",
+            "target": "徐達",
+            "value": 16
+        },
+        {
+            "source": "護教法王",
+            "target": "韋一笑",
+            "value": 2
+        },
+        {
+            "source": "護教法王",
+            "target": "青翼蝠王",
+            "value": 3
+        },
+        {
+            "source": "韋一笑",
+            "target": "青翼蝠王",
+            "value": 14
+        },
+        {
+            "source": "張無忌",
+            "target": "殷天正",
+            "value": 58
+        },
+        {
+            "source": "張無忌",
+            "target": "白眉鷹王",
+            "value": 4
+        },
+        {
+            "source": "殷天正",
+            "target": "金毛獅王",
+            "value": 1
+        },
+        {
+            "source": "白眉鷹王",
+            "target": "金毛獅王",
+            "value": 3
+        },
+        {
+            "source": "金毛獅王",
+            "target": "殷天正",
+            "value": 1
+        },
+        {
+            "source": "紫衫龍王",
+            "target": "白眉鷹王",
+            "value": 2
+        },
+        {
+            "source": "紫衫龍王",
+            "target": "金毛獅王",
+            "value": 4
+        },
+        {
+            "source": "紫衫龍王",
+            "target": "青翼蝠王",
+            "value": 3
+        },
+        {
+            "source": "白眉鷹王",
+            "target": "青翼蝠王",
+            "value": 5
+        },
+        {
+            "source": "金毛獅王",
+            "target": "青翼蝠王",
+            "value": 2
+        },
+        {
+            "source": "張無忌",
+            "target": "護教法王",
+            "value": 2
+        },
+        {
+            "source": "光明左使",
+            "target": "光明右使",
+            "value": 1
+        },
+        {
+            "source": "光明右使",
+            "target": "紫衫龍王",
+            "value": 3
+        },
+        {
+            "source": "韋一笑",
+            "target": "孤鴻子",
+            "value": 1
+        },
+        {
+            "source": "韋一笑",
+            "target": "紀曉芙",
+            "value": 2
+        },
+        {
+            "source": "紫衫龍王",
+            "target": "殷梨亭",
+            "value": 1
+        },
+        {
+            "source": "青翼蝠王",
+            "target": "殷梨亭",
+            "value": 3
+        },
+        {
+            "source": "胡青牛",
+            "target": "殷梨亭",
+            "value": 2
+        },
+        {
+            "source": "周芷若",
+            "target": "殷梨亭",
+            "value": 20
+        },
+        {
+            "source": "殷梨亭",
+            "target": "周芷若",
+            "value": 20
+        },
+        {
+            "source": "周芷若",
+            "target": "殷天正",
+            "value": 6
+        },
+        {
+            "source": "周芷若",
+            "target": "殷無福",
+            "value": 1
+        },
+        {
+            "source": "殷天正",
+            "target": "殷無福",
+            "value": 2
+        },
+        {
+            "source": "殷天正",
+            "target": "周芷若",
+            "value": 6
+        },
+        {
+            "source": "殷無福",
+            "target": "周芷若",
+            "value": 1
+        },
+        {
+            "source": "張三丰",
+            "target": "紀曉芙",
+            "value": 1
+        },
+        {
+            "source": "殷梨亭",
+            "target": "郭襄",
+            "value": 1
+        },
+        {
+            "source": "張無忌",
+            "target": "宋青書",
+            "value": 50
+        },
+        {
+            "source": "周芷若",
+            "target": "宋青書",
+            "value": 22
+        },
+        {
+            "source": "宋青書",
+            "target": "周芷若",
+            "value": 22
+        },
+        {
+            "source": "殷梨亭",
+            "target": "宋青書",
+            "value": 12
+        },
+        {
+            "source": "青翼蝠王",
+            "target": "宋青書",
+            "value": 1
+        },
+        {
+            "source": "青翼蝠王",
+            "target": "丁敏君",
+            "value": 1
+        },
+        {
+            "source": "青翼蝠王",
+            "target": "貝錦儀",
+            "value": 1
+        },
+        {
+            "source": "殷梨亭",
+            "target": "貝錦儀",
+            "value": 3
+        },
+        {
+            "source": "宋青書",
+            "target": "丁敏君",
+            "value": 2
+        },
+        {
+            "source": "宋青書",
+            "target": "貝錦儀",
+            "value": 2
+        },
+        {
+            "source": "張三丰",
+            "target": "丁敏君",
+            "value": 1
+        },
+        {
+            "source": "張無忌",
+            "target": "青翼蝠王",
+            "value": 12
+        },
+        {
+            "source": "張無忌",
+            "target": "韋一笑",
+            "value": 54
+        },
+        {
+            "source": "殷梨亭",
+            "target": "何太沖",
+            "value": 3
+        },
+        {
+            "source": "殷梨亭",
+            "target": "班淑嫻",
+            "value": 1
+        },
+        {
+            "source": "宋青書",
+            "target": "何太沖",
+            "value": 2
+        },
+        {
+            "source": "宋青書",
+            "target": "班淑嫻",
+            "value": 2
+        },
+        {
+            "source": "張無忌",
+            "target": "清風",
+            "value": 6
+        },
+        {
+            "source": "清風",
+            "target": "明月",
+            "value": 7
+        },
+        {
+            "source": "白眉鷹王",
+            "target": "殷野王",
+            "value": 1
+        },
+        {
+            "source": "張無忌",
+            "target": "殷野王",
+            "value": 29
+        },
+        {
+            "source": "殷野王",
+            "target": "殷無福",
+            "value": 1
+        },
+        {
+            "source": "韋一笑",
+            "target": "殷野王",
+            "value": 8
+        },
+        {
+            "source": "青翼蝠王",
+            "target": "殷野王",
+            "value": 2
+        },
+        {
+            "source": "殷天正",
+            "target": "韋一笑",
+            "value": 15
+        },
+        {
+            "source": "韋一笑",
+            "target": "殷天正",
+            "value": 15
+        },
+        {
+            "source": "韋一笑",
+            "target": "說不得",
+            "value": 25
+        },
+        {
+            "source": "青翼蝠王",
+            "target": "說不得",
+            "value": 1
+        },
+        {
+            "source": "張無忌",
+            "target": "周顛",
+            "value": 18
+        },
+        {
+            "source": "說不得",
+            "target": "周顛",
+            "value": 43
+        },
+        {
+            "source": "韋一笑",
+            "target": "周顛",
+            "value": 20
+        },
+        {
+            "source": "說不得",
+            "target": "張中",
+            "value": 2
+        },
+        {
+            "source": "張中",
+            "target": "周顛",
+            "value": 4
+        },
+        {
+            "source": "冷謙",
+            "target": "彭瑩玉",
+            "value": 6
+        },
+        {
+            "source": "冷謙",
+            "target": "說不得",
+            "value": 8
+        },
+        {
+            "source": "冷謙",
+            "target": "周顛",
+            "value": 12
+        },
+        {
+            "source": "白眉鷹王",
+            "target": "韋一笑",
+            "value": 2
+        },
+        {
+            "source": "白眉鷹王",
+            "target": "說不得",
+            "value": 3
+        },
+        {
+            "source": "白眉鷹王",
+            "target": "周顛",
+            "value": 1
+        },
+        {
+            "source": "韋一笑",
+            "target": "冷謙",
+            "value": 4
+        },
+        {
+            "source": "光明右使",
+            "target": "金毛獅王",
+            "value": 1
+        },
+        {
+            "source": "光明左使",
+            "target": "周顛",
+            "value": 2
+        },
+        {
+            "source": "護教法王",
+            "target": "光明左使",
+            "value": 1
+        },
+        {
+            "source": "彭瑩玉",
+            "target": "周顛",
+            "value": 17
+        },
+        {
+            "source": "光明左使",
+            "target": "說不得",
+            "value": 1
+        },
+        {
+            "source": "說不得",
+            "target": "彭瑩玉",
+            "value": 12
+        },
+        {
+            "source": "陽頂天",
+            "target": "韋一笑",
+            "value": 1
+        },
+        {
+            "source": "陽頂天",
+            "target": "周顛",
+            "value": 3
+        },
+        {
+            "source": "張無忌",
+            "target": "空見",
+            "value": 13
+        },
+        {
+            "source": "說不得",
+            "target": "空見",
+            "value": 1
+        },
+        {
+            "source": "張無忌",
+            "target": "光明使者",
+            "value": 3
+        },
+        {
+            "source": "光明使者",
+            "target": "青翼蝠王",
+            "value": 2
+        },
+        {
+            "source": "張無忌",
+            "target": "冷謙",
+            "value": 3
+        },
+        {
+            "source": "陽頂天",
+            "target": "彭瑩玉",
+            "value": 1
+        },
+        {
+            "source": "殷天正",
+            "target": "空見",
+            "value": 2
+        },
+        {
+            "source": "周顛",
+            "target": "紀曉芙",
+            "value": 1
+        },
+        {
+            "source": "張無忌",
+            "target": "小昭",
+            "value": 113
+        },
+        {
+            "source": "小昭",
+            "target": "陽頂天",
+            "value": 3
+        },
+        {
+            "source": "光明使者",
+            "target": "五行旗使",
+            "value": 1
+        },
+        {
+            "source": "護教法王",
+            "target": "五行旗使",
+            "value": 1
+        },
+        {
+            "source": "張三丰",
+            "target": "護教法王",
+            "value": 1
+        },
+        {
+            "source": "說不得",
+            "target": "殷梨亭",
+            "value": 2
+        },
+        {
+            "source": "說不得",
+            "target": "宋青書",
+            "value": 1
+        },
+        {
+            "source": "殷天正",
+            "target": "空聞",
+            "value": 6
+        },
+        {
+            "source": "殷天正",
+            "target": "空智",
+            "value": 6
+        },
+        {
+            "source": "張三丰",
+            "target": "殷天正",
+            "value": 16
+        },
+        {
+            "source": "殷天正",
+            "target": "殷梨亭",
+            "value": 2
+        },
+        {
+            "source": "白眉鷹王",
+            "target": "殷梨亭",
+            "value": 1
+        },
+        {
+            "source": "張無忌",
+            "target": "唐文亮",
+            "value": 7
+        },
+        {
+            "source": "殷天正",
+            "target": "宗維俠",
+            "value": 14
+        },
+        {
+            "source": "殷素素",
+            "target": "宗維俠",
+            "value": 2
+        },
+        {
+            "source": "韋一笑",
+            "target": "李天垣",
+            "value": 1
+        },
+        {
+            "source": "說不得",
+            "target": "李天垣",
+            "value": 2
+        },
+        {
+            "source": "張無忌",
+            "target": "空智",
+            "value": 21
+        },
+        {
+            "source": "張無忌",
+            "target": "宗維俠",
+            "value": 19
+        },
+        {
+            "source": "空智",
+            "target": "宗維俠",
+            "value": 2
+        },
+        {
+            "source": "空見",
+            "target": "宗維俠",
+            "value": 2
+        },
+        {
+            "source": "金毛獅王",
+            "target": "空智",
+            "value": 4
+        },
+        {
+            "source": "周芷若",
+            "target": "宗維俠",
+            "value": 2
+        },
+        {
+            "source": "小昭",
+            "target": "宗維俠",
+            "value": 1
+        },
+        {
+            "source": "張無忌",
+            "target": "常敬之",
+            "value": 7
+        },
+        {
+            "source": "張無忌",
+            "target": "空性",
+            "value": 37
+        },
+        {
+            "source": "殷野王",
+            "target": "空性",
+            "value": 1
+        },
+        {
+            "source": "殷天正",
+            "target": "冷謙",
+            "value": 1
+        },
+        {
+            "source": "殷天正",
+            "target": "說不得",
+            "value": 8
+        },
+        {
+            "source": "殷天正",
+            "target": "周顛",
+            "value": 9
+        },
+        {
+            "source": "冷謙",
+            "target": "殷天正",
+            "value": 1
+        },
+        {
+            "source": "冷謙",
+            "target": "殷野王",
+            "value": 1
+        },
+        {
+            "source": "冷謙",
+            "target": "李天垣",
+            "value": 1
+        },
+        {
+            "source": "說不得",
+            "target": "殷天正",
+            "value": 8
+        },
+        {
+            "source": "說不得",
+            "target": "殷野王",
+            "value": 5
+        },
+        {
+            "source": "周顛",
+            "target": "殷天正",
+            "value": 9
+        },
+        {
+            "source": "周顛",
+            "target": "殷野王",
+            "value": 9
+        },
+        {
+            "source": "周顛",
+            "target": "李天垣",
+            "value": 1
+        },
+        {
+            "source": "胡青牛",
+            "target": "胡青羊",
+            "value": 1
+        },
+        {
+            "source": "張無忌",
+            "target": "白垣",
+            "value": 3
+        },
+        {
+            "source": "白垣",
+            "target": "胡青羊",
+            "value": 1
+        },
+        {
+            "source": "張無忌",
+            "target": "高老者",
+            "value": 30
+        },
+        {
+            "source": "小昭",
+            "target": "高老者",
+            "value": 1
+        },
+        {
+            "source": "高老者",
+            "target": "班淑嫻",
+            "value": 9
+        },
+        {
+            "source": "高老者",
+            "target": "何太沖",
+            "value": 9
+        },
+        {
+            "source": "渡劫",
+            "target": "高老者",
+            "value": 1
+        },
+        {
+            "source": "渡劫",
+            "target": "班淑嫻",
+            "value": 1
+        },
+        {
+            "source": "張無忌",
+            "target": "何足道",
+            "value": 4
+        },
+        {
+            "source": "何足道",
+            "target": "班淑嫻",
+            "value": 1
+        },
+        {
+            "source": "空性",
+            "target": "何太沖",
+            "value": 2
+        },
+        {
+            "source": "張無忌",
+            "target": "陽頂天",
+            "value": 4
+        },
+        {
+            "source": "光明使者",
+            "target": "韋一笑",
+            "value": 1
+        },
+        {
+            "source": "周芷若",
+            "target": "小昭",
+            "value": 20
+        },
+        {
+            "source": "小昭",
+            "target": "周芷若",
+            "value": 20
+        },
+        {
+            "source": "小昭",
+            "target": "空性",
+            "value": 1
+        },
+        {
+            "source": "小昭",
+            "target": "宋青書",
+            "value": 1
+        },
+        {
+            "source": "周芷若",
+            "target": "何太沖",
+            "value": 6
+        },
+        {
+            "source": "韋一笑",
+            "target": "何足道",
+            "value": 2
+        },
+        {
+            "source": "冷謙",
+            "target": "張中",
+            "value": 1
+        },
+        {
+            "source": "張中",
+            "target": "彭瑩玉",
+            "value": 2
+        },
+        {
+            "source": "殷天正",
+            "target": "彭瑩玉",
+            "value": 3
+        },
+        {
+            "source": "彭瑩玉",
+            "target": "殷天正",
+            "value": 3
+        },
+        {
+            "source": "青翼蝠王",
+            "target": "冷謙",
+            "value": 1
+        },
+        {
+            "source": "小昭",
+            "target": "彭瑩玉",
+            "value": 1
+        },
+        {
+            "source": "殷天正",
+            "target": "唐洋",
+            "value": 1
+        },
+        {
+            "source": "韋一笑",
+            "target": "唐洋",
+            "value": 1
+        },
+        {
+            "source": "唐洋",
+            "target": "殷天正",
+            "value": 1
+        },
+        {
+            "source": "張無忌",
+            "target": "吳勁草",
+            "value": 6
+        },
+        {
+            "source": "吳勁草",
+            "target": "殷梨亭",
+            "value": 2
+        },
+        {
+            "source": "張無忌",
+            "target": "明月",
+            "value": 12
+        },
+        {
+            "source": "張無忌",
+            "target": "空聞",
+            "value": 22
+        },
+        {
+            "source": "明月",
+            "target": "空聞",
+            "value": 1
+        },
+        {
+            "source": "韋一笑",
+            "target": "殷梨亭",
+            "value": 6
+        },
+        {
+            "source": "周顛",
+            "target": "殷梨亭",
+            "value": 2
+        },
+        {
+            "source": "趙一傷",
+            "target": "錢二敗",
+            "value": 2
+        },
+        {
+            "source": "趙一傷",
+            "target": "孫三毀",
+            "value": 1
+        },
+        {
+            "source": "趙一傷",
+            "target": "李四摧",
+            "value": 1
+        },
+        {
+            "source": "錢二敗",
+            "target": "孫三毀",
+            "value": 1
+        },
+        {
+            "source": "錢二敗",
+            "target": "李四摧",
+            "value": 1
+        },
+        {
+            "source": "孫三毀",
+            "target": "李四摧",
+            "value": 5
+        },
+        {
+            "source": "周五輸",
+            "target": "吳六破",
+            "value": 1
+        },
+        {
+            "source": "周五輸",
+            "target": "鄭七滅",
+            "value": 1
+        },
+        {
+            "source": "周五輸",
+            "target": "王八衰",
+            "value": 1
+        },
+        {
+            "source": "吳六破",
+            "target": "鄭七滅",
+            "value": 1
+        },
+        {
+            "source": "吳六破",
+            "target": "王八衰",
+            "value": 1
+        },
+        {
+            "source": "鄭七滅",
+            "target": "王八衰",
+            "value": 1
+        },
+        {
+            "source": "張無忌",
+            "target": "趙敏",
+            "value": 470
+        },
+        {
+            "source": "趙敏",
+            "target": "殷天正",
+            "value": 6
+        },
+        {
+            "source": "趙敏",
+            "target": "韋一笑",
+            "value": 13
+        },
+        {
+            "source": "趙敏",
+            "target": "周芷若",
+            "value": 184
+        },
+        {
+            "source": "小昭",
+            "target": "殷天正",
+            "value": 8
+        },
+        {
+            "source": "小昭",
+            "target": "周顛",
+            "value": 2
+        },
+        {
+            "source": "張無忌",
+            "target": "趙一傷",
+            "value": 1
+        },
+        {
+            "source": "趙敏",
+            "target": "趙一傷",
+            "value": 1
+        },
+        {
+            "source": "張無忌",
+            "target": "錢二敗",
+            "value": 1
+        },
+        {
+            "source": "小昭",
+            "target": "殷梨亭",
+            "value": 2
+        },
+        {
+            "source": "小昭",
+            "target": "韋一笑",
+            "value": 1
+        },
+        {
+            "source": "張無忌",
+            "target": "聞蒼松",
+            "value": 2
+        },
+        {
+            "source": "韋一笑",
+            "target": "空見",
+            "value": 1
+        },
+        {
+            "source": "韋一笑",
+            "target": "彭瑩玉",
+            "value": 7
+        },
+        {
+            "source": "彭瑩玉",
+            "target": "殷野王",
+            "value": 3
+        },
+        {
+            "source": "周顛",
+            "target": "顏垣",
+            "value": 2
+        },
+        {
+            "source": "張無忌",
+            "target": "知客道人",
+            "value": 2
+        },
+        {
+            "source": "清風",
+            "target": "知客道人",
+            "value": 1
+        },
+        {
+            "source": "明月",
+            "target": "知客道人",
+            "value": 1
+        },
+        {
+            "source": "張三丰",
+            "target": "清風",
+            "value": 2
+        },
+        {
+            "source": "張三丰",
+            "target": "知客道人",
+            "value": 3
+        },
+        {
+            "source": "張三丰",
+            "target": "明月",
+            "value": 1
+        },
+        {
+            "source": "趙敏",
+            "target": "張三丰",
+            "value": 16
+        },
+        {
+            "source": "趙敏",
+            "target": "知客道人",
+            "value": 1
+        },
+        {
+            "source": "趙敏",
+            "target": "空聞",
+            "value": 3
+        },
+        {
+            "source": "趙敏",
+            "target": "空智",
+            "value": 9
+        },
+        {
+            "source": "張三丰",
+            "target": "韋一笑",
+            "value": 6
+        },
+        {
+            "source": "趙敏",
+            "target": "青翼蝠王",
+            "value": 1
+        },
+        {
+            "source": "張三丰",
+            "target": "青翼蝠王",
+            "value": 1
+        },
+        {
+            "source": "張三丰",
+            "target": "遊行散人",
+            "value": 1
+        },
+        {
+            "source": "張三丰",
+            "target": "說不得",
+            "value": 4
+        },
+        {
+            "source": "遊行散人",
+            "target": "說不得",
+            "value": 1
+        },
+        {
+            "source": "光明使者",
+            "target": "白眉鷹王",
+            "value": 1
+        },
+        {
+            "source": "光明使者",
+            "target": "說不得",
+            "value": 1
+        },
+        {
+            "source": "韋一笑",
+            "target": "明月",
+            "value": 1
+        },
+        {
+            "source": "說不得",
+            "target": "明月",
+            "value": 1
+        },
+        {
+            "source": "趙敏",
+            "target": "白眉鷹王",
+            "value": 1
+        },
+        {
+            "source": "趙敏",
+            "target": "說不得",
+            "value": 9
+        },
+        {
+            "source": "張中",
+            "target": "殷野王",
+            "value": 1
+        },
+        {
+            "source": "阿二",
+            "target": "阿三",
+            "value": 10
+        },
+        {
+            "source": "趙敏",
+            "target": "周顛",
+            "value": 3
+        },
+        {
+            "source": "趙敏",
+            "target": "阿三",
+            "value": 4
+        },
+        {
+            "source": "韋一笑",
+            "target": "阿二",
+            "value": 1
+        },
+        {
+            "source": "空性",
+            "target": "阿三",
+            "value": 2
+        },
+        {
+            "source": "殷天正",
+            "target": "空性",
+            "value": 2
+        },
+        {
+            "source": "白眉鷹王",
+            "target": "阿三",
+            "value": 1
+        },
+        {
+            "source": "張三丰",
+            "target": "阿二",
+            "value": 1
+        },
+        {
+            "source": "張三丰",
+            "target": "阿三",
+            "value": 6
+        },
+        {
+            "source": "張無忌",
+            "target": "阿三",
+            "value": 14
+        },
+        {
+            "source": "說不得",
+            "target": "阿三",
+            "value": 1
+        },
+        {
+            "source": "周顛",
+            "target": "阿三",
+            "value": 1
+        },
+        {
+            "source": "殷野王",
+            "target": "阿三",
+            "value": 1
+        },
+        {
+            "source": "阿三",
+            "target": "剛相",
+            "value": 1
+        },
+        {
+            "source": "胡青牛",
+            "target": "阿三",
+            "value": 1
+        },
+        {
+            "source": "張無忌",
+            "target": "阿二",
+            "value": 8
+        },
+        {
+            "source": "張無忌",
+            "target": "顏垣",
+            "value": 3
+        },
+        {
+            "source": "顏垣",
+            "target": "阿二",
+            "value": 1
+        },
+        {
+            "source": "趙敏",
+            "target": "顏垣",
+            "value": 2
+        },
+        {
+            "source": "趙敏",
+            "target": "小昭",
+            "value": 39
+        },
+        {
+            "source": "張無忌",
+            "target": "方東白",
+            "value": 4
+        },
+        {
+            "source": "阿二",
+            "target": "方東白",
+            "value": 3
+        },
+        {
+            "source": "趙敏",
+            "target": "方東白",
+            "value": 1
+        },
+        {
+            "source": "阿三",
+            "target": "方東白",
+            "value": 1
+        },
+        {
+            "source": "張無忌",
+            "target": "玄冥二老",
+            "value": 33
+        },
+        {
+            "source": "韋一笑",
+            "target": "玄冥二老",
+            "value": 1
+        },
+        {
+            "source": "趙敏",
+            "target": "阿二",
+            "value": 3
+        },
+        {
+            "source": "阿二",
+            "target": "玄冥二老",
+            "value": 3
+        },
+        {
+            "source": "阿三",
+            "target": "玄冥二老",
+            "value": 3
+        },
+        {
+            "source": "顏垣",
+            "target": "殷梨亭",
+            "value": 1
+        },
+        {
+            "source": "王難姑",
+            "target": "殷梨亭",
+            "value": 1
+        },
+        {
+            "source": "趙敏",
+            "target": "殷梨亭",
+            "value": 7
+        },
+        {
+            "source": "趙敏",
+            "target": "玄冥二老",
+            "value": 17
+        },
+        {
+            "source": "趙敏",
+            "target": "錢二敗",
+            "value": 1
+        },
+        {
+            "source": "周顛",
+            "target": "何太沖",
+            "value": 1
+        },
+        {
+            "source": "趙敏",
+            "target": "彭瑩玉",
+            "value": 7
+        },
+        {
+            "source": "小昭",
+            "target": "張三丰",
+            "value": 1
+        },
+        {
+            "source": "小昭",
+            "target": "殷野王",
+            "value": 2
+        },
+        {
+            "source": "張三丰",
+            "target": "周顛",
+            "value": 1
+        },
+        {
+            "source": "張三丰",
+            "target": "殷野王",
+            "value": 1
+        },
+        {
+            "source": "聞蒼松",
+            "target": "常遇春",
+            "value": 1
+        },
+        {
+            "source": "張無忌",
+            "target": "湯和",
+            "value": 3
+        },
+        {
+            "source": "張無忌",
+            "target": "鄧愈",
+            "value": 3
+        },
+        {
+            "source": "張無忌",
+            "target": "花雲",
+            "value": 1
+        },
+        {
+            "source": "張無忌",
+            "target": "吳良",
+            "value": 1
+        },
+        {
+            "source": "張無忌",
+            "target": "吳禎",
+            "value": 1
+        },
+        {
+            "source": "徐達",
+            "target": "吳禎",
+            "value": 2
+        },
+        {
+            "source": "湯和",
+            "target": "吳良",
+            "value": 2
+        },
+        {
+            "source": "湯和",
+            "target": "吳禎",
+            "value": 2
+        },
+        {
+            "source": "鄧愈",
+            "target": "吳良",
+            "value": 2
+        },
+        {
+            "source": "鄧愈",
+            "target": "吳禎",
+            "value": 2
+        },
+        {
+            "source": "花雲",
+            "target": "吳良",
+            "value": 2
+        },
+        {
+            "source": "花雲",
+            "target": "吳禎",
+            "value": 2
+        },
+        {
+            "source": "光明左使",
+            "target": "韋一笑",
+            "value": 2
+        },
+        {
+            "source": "光明左使",
+            "target": "青翼蝠王",
+            "value": 2
+        },
+        {
+            "source": "常遇春",
+            "target": "湯和",
+            "value": 2
+        },
+        {
+            "source": "常遇春",
+            "target": "鄧愈",
+            "value": 2
+        },
+        {
+            "source": "常遇春",
+            "target": "花雲",
+            "value": 1
+        },
+        {
+            "source": "常遇春",
+            "target": "吳良",
+            "value": 1
+        },
+        {
+            "source": "常遇春",
+            "target": "吳禎",
+            "value": 1
+        },
+        {
+            "source": "韋一笑",
+            "target": "朱元璋",
+            "value": 1
+        },
+        {
+            "source": "趙敏",
+            "target": "何太沖",
+            "value": 4
+        },
+        {
+            "source": "趙敏",
+            "target": "唐文亮",
+            "value": 2
+        },
+        {
+            "source": "周芷若",
+            "target": "韋一笑",
+            "value": 8
+        },
+        {
+            "source": "韋一笑",
+            "target": "周芷若",
+            "value": 8
+        },
+        {
+            "source": "唐文亮",
+            "target": "何太沖",
+            "value": 1
+        },
+        {
+            "source": "張無忌",
+            "target": "光明右使",
+            "value": 3
+        },
+        {
+            "source": "趙敏",
+            "target": "王保保",
+            "value": 13
+        },
+        {
+            "source": "空性",
+            "target": "阿二",
+            "value": 1
+        },
+        {
+            "source": "空性",
+            "target": "玄冥二老",
+            "value": 1
+        },
+        {
+            "source": "空智",
+            "target": "阿二",
+            "value": 1
+        },
+        {
+            "source": "空智",
+            "target": "阿三",
+            "value": 1
+        },
+        {
+            "source": "空智",
+            "target": "玄冥二老",
+            "value": 1
+        },
+        {
+            "source": "周芷若",
+            "target": "郭襄",
+            "value": 2
+        },
+        {
+            "source": "郭襄",
+            "target": "周芷若",
+            "value": 2
+        },
+        {
+            "source": "周芷若",
+            "target": "孤鴻子",
+            "value": 2
+        },
+        {
+            "source": "韋一笑",
+            "target": "王保保",
+            "value": 1
+        },
+        {
+            "source": "周芷若",
+            "target": "王保保",
+            "value": 2
+        },
+        {
+            "source": "張無忌",
+            "target": "王保保",
+            "value": 15
+        },
+        {
+            "source": "周芷若",
+            "target": "班淑嫻",
+            "value": 2
+        },
+        {
+            "source": "趙敏",
+            "target": "班淑嫻",
+            "value": 1
+        },
+        {
+            "source": "何太沖",
+            "target": "王保保",
+            "value": 1
+        },
+        {
+            "source": "班淑嫻",
+            "target": "王保保",
+            "value": 1
+        },
+        {
+            "source": "趙敏",
+            "target": "宋青書",
+            "value": 22
+        },
+        {
+            "source": "宋青書",
+            "target": "空聞",
+            "value": 1
+        },
+        {
+            "source": "宋青書",
+            "target": "空智",
+            "value": 1
+        },
+        {
+            "source": "趙敏",
+            "target": "丁敏君",
+            "value": 1
+        },
+        {
+            "source": "張無忌",
+            "target": "殷離",
+            "value": 55
+        },
+        {
+            "source": "殷離",
+            "target": "殷野王",
+            "value": 2
+        },
+        {
+            "source": "丁敏君",
+            "target": "靜玄師太",
+            "value": 1
+        },
+        {
+            "source": "趙敏",
+            "target": "渡劫",
+            "value": 4
+        },
+        {
+            "source": "金毛獅王",
+            "target": "季長老",
+            "value": 2
+        },
+        {
+            "source": "金毛獅王",
+            "target": "鄭長老",
+            "value": 2
+        },
+        {
+            "source": "季長老",
+            "target": "鄭長老",
+            "value": 3
+        },
+        {
+            "source": "張無忌",
+            "target": "季長老",
+            "value": 2
+        },
+        {
+            "source": "張無忌",
+            "target": "鄭長老",
+            "value": 5
+        },
+        {
+            "source": "陳友諒",
+            "target": "鄭長老",
+            "value": 3
+        },
+        {
+            "source": "張無忌",
+            "target": "陳友諒",
+            "value": 53
+        },
+        {
+            "source": "趙敏",
+            "target": "陳友諒",
+            "value": 14
+        },
+        {
+            "source": "趙敏",
+            "target": "鄭長老",
+            "value": 3
+        },
+        {
+            "source": "張無忌",
+            "target": "紫衫龍王",
+            "value": 3
+        },
+        {
+            "source": "紫衫龍王",
+            "target": "胡青牛",
+            "value": 1
+        },
+        {
+            "source": "殷離",
+            "target": "小昭",
+            "value": 12
+        },
+        {
+            "source": "趙敏",
+            "target": "殷離",
+            "value": 31
+        },
+        {
+            "source": "周芷若",
+            "target": "殷離",
+            "value": 26
+        },
+        {
+            "source": "殷離",
+            "target": "周芷若",
+            "value": 26
+        },
+        {
+            "source": "趙敏",
+            "target": "金毛獅王",
+            "value": 6
+        },
+        {
+            "source": "趙敏",
+            "target": "黛綺絲",
+            "value": 7
+        },
+        {
+            "source": "白眉鷹王",
+            "target": "彭瑩玉",
+            "value": 1
+        },
+        {
+            "source": "黛綺絲",
+            "target": "胡青牛",
+            "value": 1
+        },
+        {
+            "source": "光明右使",
+            "target": "黛綺絲",
+            "value": 1
+        },
+        {
+            "source": "趙敏",
+            "target": "紫衫龍王",
+            "value": 4
+        },
+        {
+            "source": "小昭",
+            "target": "黛綺絲",
+            "value": 12
+        },
+        {
+            "source": "小昭",
+            "target": "紫衫龍王",
+            "value": 6
+        },
+        {
+            "source": "黛綺絲",
+            "target": "紫衫龍王",
+            "value": 2
+        },
+        {
+            "source": "周芷若",
+            "target": "紫衫龍王",
+            "value": 1
+        },
+        {
+            "source": "紫衫龍王",
+            "target": "周芷若",
+            "value": 1
+        },
+        {
+            "source": "周芷若",
+            "target": "黛綺絲",
+            "value": 1
+        },
+        {
+            "source": "黛綺絲",
+            "target": "周芷若",
+            "value": 1
+        },
+        {
+            "source": "黛綺絲",
+            "target": "金毛獅王",
+            "value": 1
+        },
+        {
+            "source": "張無忌",
+            "target": "黛綺絲",
+            "value": 8
+        },
+        {
+            "source": "殷離",
+            "target": "紫衫龍王",
+            "value": 1
+        },
+        {
+            "source": "殷離",
+            "target": "胡青牛",
+            "value": 1
+        },
+        {
+            "source": "周芷若",
+            "target": "明月",
+            "value": 1
+        },
+        {
+            "source": "明月",
+            "target": "周芷若",
+            "value": 1
+        },
+        {
+            "source": "張無忌",
+            "target": "掌缽龍頭",
+            "value": 2
+        },
+        {
+            "source": "張無忌",
+            "target": "史火龍",
+            "value": 22
+        },
+        {
+            "source": "金毛獅王",
+            "target": "史火龍",
+            "value": 2
+        },
+        {
+            "source": "金毛獅王",
+            "target": "掌缽龍頭",
+            "value": 1
+        },
+        {
+            "source": "史火龍",
+            "target": "掌缽龍頭",
+            "value": 3
+        },
+        {
+            "source": "宋青書",
+            "target": "史火龍",
+            "value": 2
+        },
+        {
+            "source": "宋青書",
+            "target": "陳友諒",
+            "value": 30
+        },
+        {
+            "source": "史火龍",
+            "target": "陳友諒",
+            "value": 14
+        },
+        {
+            "source": "金毛獅王",
+            "target": "執法長老",
+            "value": 2
+        },
+        {
+            "source": "張無忌",
+            "target": "執法長老",
+            "value": 11
+        },
+        {
+            "source": "紫衫龍王",
+            "target": "執法長老",
+            "value": 1
+        },
+        {
+            "source": "紫衫龍王",
+            "target": "武烈",
+            "value": 1
+        },
+        {
+            "source": "執法長老",
+            "target": "武烈",
+            "value": 1
+        },
+        {
+            "source": "史火龍",
+            "target": "執法長老",
+            "value": 2
+        },
+        {
+            "source": "史火龍",
+            "target": "季長老",
+            "value": 1
+        },
+        {
+            "source": "執法長老",
+            "target": "季長老",
+            "value": 1
+        },
+        {
+            "source": "張三丰",
+            "target": "執法長老",
+            "value": 2
+        },
+        {
+            "source": "張三丰",
+            "target": "陳友諒",
+            "value": 3
+        },
+        {
+            "source": "執法長老",
+            "target": "陳友諒",
+            "value": 5
+        },
+        {
+            "source": "護教法王",
+            "target": "陳友諒",
+            "value": 1
+        },
+        {
+            "source": "韓林兒",
+            "target": "執法長老",
+            "value": 1
+        },
+        {
+            "source": "韓林兒",
+            "target": "陳友諒",
+            "value": 4
+        },
+        {
+            "source": "張無忌",
+            "target": "韓林兒",
+            "value": 22
+        },
+        {
+            "source": "彭瑩玉",
+            "target": "朱元璋",
+            "value": 2
+        },
+        {
+            "source": "傳功長老",
+            "target": "執法長老",
+            "value": 8
+        },
+        {
+            "source": "傳功長老",
+            "target": "掌棒龍頭",
+            "value": 3
+        },
+        {
+            "source": "傳功長老",
+            "target": "掌缽龍頭",
+            "value": 3
+        },
+        {
+            "source": "執法長老",
+            "target": "掌棒龍頭",
+            "value": 7
+        },
+        {
+            "source": "執法長老",
+            "target": "掌缽龍頭",
+            "value": 6
+        },
+        {
+            "source": "掌棒龍頭",
+            "target": "掌缽龍頭",
+            "value": 6
+        },
+        {
+            "source": "陳友諒",
+            "target": "玄冥二老",
+            "value": 2
+        },
+        {
+            "source": "趙敏",
+            "target": "韓林兒",
+            "value": 5
+        },
+        {
+            "source": "趙敏",
+            "target": "史火龍",
+            "value": 1
+        },
+        {
+            "source": "史火龍",
+            "target": "玄冥二老",
+            "value": 1
+        },
+        {
+            "source": "趙敏",
+            "target": "掌棒龍頭",
+            "value": 7
+        },
+        {
+            "source": "宋青書",
+            "target": "掌棒龍頭",
+            "value": 16
+        },
+        {
+            "source": "掌棒龍頭",
+            "target": "陳友諒",
+            "value": 7
+        },
+        {
+            "source": "傳功長老",
+            "target": "玄冥二老",
+            "value": 1
+        },
+        {
+            "source": "執法長老",
+            "target": "玄冥二老",
+            "value": 1
+        },
+        {
+            "source": "張無忌",
+            "target": "掌棒龍頭",
+            "value": 6
+        },
+        {
+            "source": "史火龍",
+            "target": "掌棒龍頭",
+            "value": 4
+        },
+        {
+            "source": "掌缽龍頭",
+            "target": "陳友諒",
+            "value": 13
+        },
+        {
+            "source": "周芷若",
+            "target": "傳功長老",
+            "value": 4
+        },
+        {
+            "source": "宋青書",
+            "target": "執法長老",
+            "value": 5
+        },
+        {
+            "source": "宋青書",
+            "target": "掌缽龍頭",
+            "value": 18
+        },
+        {
+            "source": "韓林兒",
+            "target": "掌棒龍頭",
+            "value": 3
+        },
+        {
+            "source": "光明使者",
+            "target": "紀曉芙",
+            "value": 1
+        },
+        {
+            "source": "光明使者",
+            "target": "陳友諒",
+            "value": 1
+        },
+        {
+            "source": "紀曉芙",
+            "target": "陳友諒",
+            "value": 1
+        },
+        {
+            "source": "張無忌",
+            "target": "傳功長老",
+            "value": 9
+        },
+        {
+            "source": "傳功長老",
+            "target": "陳友諒",
+            "value": 5
+        },
+        {
+            "source": "周芷若",
+            "target": "陳友諒",
+            "value": 6
+        },
+        {
+            "source": "周芷若",
+            "target": "史火龍",
+            "value": 4
+        },
+        {
+            "source": "韓林兒",
+            "target": "史火龍",
+            "value": 2
+        },
+        {
+            "source": "韓林兒",
+            "target": "黃衫女子",
+            "value": 2
+        },
+        {
+            "source": "掌棒龍頭",
+            "target": "黃衫女子",
+            "value": 2
+        },
+        {
+            "source": "傳功長老",
+            "target": "黃衫女子",
+            "value": 4
+        },
+        {
+            "source": "執法長老",
+            "target": "黃衫女子",
+            "value": 2
+        },
+        {
+            "source": "掌缽龍頭",
+            "target": "黃衫女子",
+            "value": 1
+        },
+        {
+            "source": "白眉鷹王",
+            "target": "傳功長老",
+            "value": 1
+        },
+        {
+            "source": "白眉鷹王",
+            "target": "執法長老",
+            "value": 1
+        },
+        {
+            "source": "韋一笑",
+            "target": "傳功長老",
+            "value": 1
+        },
+        {
+            "source": "韋一笑",
+            "target": "執法長老",
+            "value": 1
+        },
+        {
+            "source": "青翼蝠王",
+            "target": "傳功長老",
+            "value": 1
+        },
+        {
+            "source": "青翼蝠王",
+            "target": "執法長老",
+            "value": 1
+        },
+        {
+            "source": "史火龍",
+            "target": "傳功長老",
+            "value": 4
+        },
+        {
+            "source": "張無忌",
+            "target": "黃衫女子",
+            "value": 8
+        },
+        {
+            "source": "史火龍",
+            "target": "黃衫女子",
+            "value": 4
+        },
+        {
+            "source": "陳友諒",
+            "target": "黃衫女子",
+            "value": 2
+        },
+        {
+            "source": "史紅石",
+            "target": "傳功長老",
+            "value": 3
+        },
+        {
+            "source": "史紅石",
+            "target": "黃衫女子",
+            "value": 3
+        },
+        {
+            "source": "殷野王",
+            "target": "空見",
+            "value": 1
+        },
+        {
+            "source": "宋青書",
+            "target": "史紅石",
+            "value": 1
+        },
+        {
+            "source": "宋青書",
+            "target": "黃衫女子",
+            "value": 1
+        },
+        {
+            "source": "史紅石",
+            "target": "陳友諒",
+            "value": 1
+        },
+        {
+            "source": "張無忌",
+            "target": "史紅石",
+            "value": 1
+        },
+        {
+            "source": "金毛獅王",
+            "target": "傳功長老",
+            "value": 2
+        },
+        {
+            "source": "韓林兒",
+            "target": "傳功長老",
+            "value": 1
+        },
+        {
+            "source": "周芷若",
+            "target": "韓林兒",
+            "value": 13
+        },
+        {
+            "source": "韓林兒",
+            "target": "周芷若",
+            "value": 13
+        },
+        {
+            "source": "周芷若",
+            "target": "金毛獅王",
+            "value": 1
+        },
+        {
+            "source": "金毛獅王",
+            "target": "周芷若",
+            "value": 1
+        },
+        {
+            "source": "彭瑩玉",
+            "target": "韓林兒",
+            "value": 8
+        },
+        {
+            "source": "金毛獅王",
+            "target": "彭瑩玉",
+            "value": 1
+        },
+        {
+            "source": "張三丰",
+            "target": "宋青書",
+            "value": 4
+        },
+        {
+            "source": "韋一笑",
+            "target": "宋青書",
+            "value": 1
+        },
+        {
+            "source": "韋一笑",
+            "target": "陳友諒",
+            "value": 1
+        },
+        {
+            "source": "殷天正",
+            "target": "常遇春",
+            "value": 1
+        },
+        {
+            "source": "常遇春",
+            "target": "殷天正",
+            "value": 1
+        },
+        {
+            "source": "趙敏",
+            "target": "光明左使",
+            "value": 1
+        },
+        {
+            "source": "殷天正",
+            "target": "青翼蝠王",
+            "value": 2
+        },
+        {
+            "source": "青翼蝠王",
+            "target": "殷天正",
+            "value": 2
+        },
+        {
+            "source": "王保保",
+            "target": "玄冥二老",
+            "value": 4
+        },
+        {
+            "source": "張無忌",
+            "target": "秦老五",
+            "value": 3
+        },
+        {
+            "source": "趙敏",
+            "target": "秦老五",
+            "value": 1
+        },
+        {
+            "source": "趙敏",
+            "target": "壽南山",
+            "value": 3
+        },
+        {
+            "source": "張無忌",
+            "target": "壽南山",
+            "value": 5
+        },
+        {
+            "source": "金毛獅王",
+            "target": "壽南山",
+            "value": 3
+        },
+        {
+            "source": "金毛獅王",
+            "target": "秦老五",
+            "value": 1
+        },
+        {
+            "source": "壽南山",
+            "target": "秦老五",
+            "value": 1
+        },
+        {
+            "source": "杜百當",
+            "target": "易三娘",
+            "value": 8
+        },
+        {
+            "source": "易三娘",
+            "target": "馬法通",
+            "value": 6
+        },
+        {
+            "source": "易三娘",
+            "target": "邵鶴",
+            "value": 2
+        },
+        {
+            "source": "馬法通",
+            "target": "邵鶴",
+            "value": 2
+        },
+        {
+            "source": "杜百當",
+            "target": "馬法通",
+            "value": 1
+        },
+        {
+            "source": "杜百當",
+            "target": "邵鶴",
+            "value": 1
+        },
+        {
+            "source": "張無忌",
+            "target": "易三娘",
+            "value": 5
+        },
+        {
+            "source": "空見",
+            "target": "馬法通",
+            "value": 1
+        },
+        {
+            "source": "趙敏",
+            "target": "易三娘",
+            "value": 2
+        },
+        {
+            "source": "光明左使",
+            "target": "殷天正",
+            "value": 2
+        },
+        {
+            "source": "渡厄",
+            "target": "渡劫",
+            "value": 26
+        },
+        {
+            "source": "渡厄",
+            "target": "渡難",
+            "value": 12
+        },
+        {
+            "source": "渡劫",
+            "target": "渡難",
+            "value": 15
+        },
+        {
+            "source": "張無忌",
+            "target": "渡劫",
+            "value": 20
+        },
+        {
+            "source": "空性",
+            "target": "渡劫",
+            "value": 2
+        },
+        {
+            "source": "趙敏",
+            "target": "空見",
+            "value": 3
+        },
+        {
+            "source": "趙敏",
+            "target": "空性",
+            "value": 2
+        },
+        {
+            "source": "金毛獅王",
+            "target": "空性",
+            "value": 1
+        },
+        {
+            "source": "金毛獅王",
+            "target": "渡劫",
+            "value": 1
+        },
+        {
+            "source": "空見",
+            "target": "渡劫",
+            "value": 1
+        },
+        {
+            "source": "張無忌",
+            "target": "渡厄",
+            "value": 27
+        },
+        {
+            "source": "張無忌",
+            "target": "渡難",
+            "value": 14
+        },
+        {
+            "source": "陽頂天",
+            "target": "空見",
+            "value": 2
+        },
+        {
+            "source": "張無忌",
+            "target": "杜百當",
+            "value": 2
+        },
+        {
+            "source": "趙敏",
+            "target": "杜百當",
+            "value": 2
+        },
+        {
+            "source": "周顛",
+            "target": "空智",
+            "value": 1
+        },
+        {
+            "source": "周顛",
+            "target": "空性",
+            "value": 1
+        },
+        {
+            "source": "陽頂天",
+            "target": "渡厄",
+            "value": 1
+        },
+        {
+            "source": "韋一笑",
+            "target": "渡厄",
+            "value": 2
+        },
+        {
+            "source": "光明使者",
+            "target": "渡厄",
+            "value": 1
+        },
+        {
+            "source": "白眉鷹王",
+            "target": "空聞",
+            "value": 1
+        },
+        {
+            "source": "殷天正",
+            "target": "渡難",
+            "value": 20
+        },
+        {
+            "source": "韋一笑",
+            "target": "空聞",
+            "value": 1
+        },
+        {
+            "source": "韋一笑",
+            "target": "空智",
+            "value": 1
+        },
+        {
+            "source": "殷天正",
+            "target": "渡厄",
+            "value": 2
+        },
+        {
+            "source": "殷天正",
+            "target": "渡劫",
+            "value": 4
+        },
+        {
+            "source": "白眉鷹王",
+            "target": "何足道",
+            "value": 1
+        },
+        {
+            "source": "趙敏",
+            "target": "渡厄",
+            "value": 1
+        },
+        {
+            "source": "空聞",
+            "target": "渡厄",
+            "value": 3
+        },
+        {
+            "source": "空聞",
+            "target": "陳友諒",
+            "value": 1
+        },
+        {
+            "source": "渡厄",
+            "target": "陳友諒",
+            "value": 1
+        },
+        {
+            "source": "張無忌",
+            "target": "司徒千鍾",
+            "value": 2
+        },
+        {
+            "source": "彭瑩玉",
+            "target": "司徒千鍾",
+            "value": 1
+        },
+        {
+            "source": "空智",
+            "target": "史火龍",
+            "value": 1
+        },
+        {
+            "source": "史火龍",
+            "target": "史紅石",
+            "value": 1
+        },
+        {
+            "source": "史紅石",
+            "target": "掌棒龍頭",
+            "value": 1
+        },
+        {
+            "source": "史紅石",
+            "target": "掌缽龍頭",
+            "value": 1
+        },
+        {
+            "source": "空聞",
+            "target": "傳功長老",
+            "value": 1
+        },
+        {
+            "source": "空智",
+            "target": "執法長老",
+            "value": 2
+        },
+        {
+            "source": "空智",
+            "target": "掌棒龍頭",
+            "value": 3
+        },
+        {
+            "source": "周芷若",
+            "target": "空聞",
+            "value": 10
+        },
+        {
+            "source": "韓林兒",
+            "target": "宋青書",
+            "value": 1
+        },
+        {
+            "source": "金毛獅王",
+            "target": "掌棒龍頭",
+            "value": 1
+        },
+        {
+            "source": "青翼蝠王",
+            "target": "司徒千鍾",
+            "value": 1
+        },
+        {
+            "source": "空智",
+            "target": "司徒千鍾",
+            "value": 2
+        },
+        {
+            "source": "周顛",
+            "target": "司徒千鍾",
+            "value": 2
+        },
+        {
+            "source": "趙敏",
+            "target": "司徒千鍾",
+            "value": 1
+        },
+        {
+            "source": "張無忌",
+            "target": "歐陽牧之",
+            "value": 1
+        },
+        {
+            "source": "彭瑩玉",
+            "target": "歐陽牧之",
+            "value": 1
+        },
+        {
+            "source": "宗維俠",
+            "target": "司徒千鍾",
+            "value": 1
+        },
+        {
+            "source": "說不得",
+            "target": "司徒千鍾",
+            "value": 2
+        },
+        {
+            "source": "張三丰",
+            "target": "司徒千鍾",
+            "value": 1
+        },
+        {
+            "source": "高老者",
+            "target": "執法長老",
+            "value": 1
+        },
+        {
+            "source": "周芷若",
+            "target": "掌缽龍頭",
+            "value": 2
+        },
+        {
+            "source": "殷梨亭",
+            "target": "掌缽龍頭",
+            "value": 1
+        },
+        {
+            "source": "空智",
+            "target": "掌缽龍頭",
+            "value": 1
+        },
+        {
+            "source": "周顛",
+            "target": "宋青書",
+            "value": 1
+        },
+        {
+            "source": "周芷若",
+            "target": "周顛",
+            "value": 5
+        },
+        {
+            "source": "周顛",
+            "target": "周芷若",
+            "value": 5
+        },
+        {
+            "source": "周芷若",
+            "target": "渡厄",
+            "value": 4
+        },
+        {
+            "source": "趙敏",
+            "target": "明月",
+            "value": 1
+        },
+        {
+            "source": "周芷若",
+            "target": "何足道",
+            "value": 2
+        },
+        {
+            "source": "周芷若",
+            "target": "史紅石",
+            "value": 2
+        },
+        {
+            "source": "周芷若",
+            "target": "渡難",
+            "value": 6
+        },
+        {
+            "source": "周芷若",
+            "target": "渡劫",
+            "value": 2
+        },
+        {
+            "source": "周顛",
+            "target": "渡厄",
+            "value": 2
+        },
+        {
+            "source": "周芷若",
+            "target": "黃衫女子",
+            "value": 14
+        },
+        {
+            "source": "周顛",
+            "target": "黃衫女子",
+            "value": 1
+        },
+        {
+            "source": "金毛獅王",
+            "target": "黃衫女子",
+            "value": 1
+        },
+        {
+            "source": "顏垣",
+            "target": "空聞",
+            "value": 2
+        },
+        {
+            "source": "周芷若",
+            "target": "空智",
+            "value": 6
+        },
+        {
+            "source": "空智",
+            "target": "渡厄",
+            "value": 1
+        },
+        {
+            "source": "吳勁草",
+            "target": "辛然",
+            "value": 3
+        },
+        {
+            "source": "趙敏",
+            "target": "吳勁草",
+            "value": 1
+        },
+        {
+            "source": "說不得",
+            "target": "吳勁草",
+            "value": 1
+        },
+        {
+            "source": "張無忌",
+            "target": "辛然",
+            "value": 2
+        },
+        {
+            "source": "張中",
+            "target": "辛然",
+            "value": 1
+        },
+        {
+            "source": "周顛",
+            "target": "辛然",
+            "value": 1
+        },
+        {
+            "source": "周芷若",
+            "target": "玄冥二老",
+            "value": 4
+        },
+        {
+            "source": "渡厄",
+            "target": "玄冥二老",
+            "value": 1
+        },
+        {
+            "source": "殷野王",
+            "target": "殷梨亭",
+            "value": 1
+        },
+        {
+            "source": "周顛",
+            "target": "貝錦儀",
+            "value": 1
+        },
+        {
+            "source": "殷梨亭",
+            "target": "空聞",
+            "value": 1
+        },
+        {
+            "source": "殷梨亭",
+            "target": "空智",
+            "value": 1
+        },
+        {
+            "source": "趙敏",
+            "target": "殷野王",
+            "value": 1
+        },
+        {
+            "source": "周芷若",
+            "target": "殷野王",
+            "value": 1
+        },
+        {
+            "source": "殷野王",
+            "target": "周芷若",
+            "value": 1
+        },
+        {
+            "source": "常遇春",
+            "target": "韓林兒",
+            "value": 3
+        },
+        {
+            "source": "徐達",
+            "target": "韓林兒",
+            "value": 3
+        },
+        {
+            "source": "殷野王",
+            "target": "陳友諒",
+            "value": 1
+        },
+        {
+            "source": "趙敏",
+            "target": "朱元璋",
+            "value": 1
+        },
+        {
+            "source": "朱元璋",
+            "target": "韓林兒",
+            "value": 4
+        }
     ]
 }
