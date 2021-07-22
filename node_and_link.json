@@ -82,8 +82,8 @@
         },
         {
             "id": "殷天正",
-            "group": 20,
-            "color": "rgba(255, 153, 51,1.0)"
+            "group": 15,
+            "color": "rgba(252, 197, 68,0.85)"
         },
         {
             "id": "白眉鷹王",
@@ -184,11 +184,6 @@
             "id": "韓林兒",
             "group": 10,
             "color": "rgba(252, 218, 68,0.75)"
-        },
-        {
-            "id": "殷天正",
-            "group": 20,
-            "color": "rgba(255, 153, 51,1.0)"
         },
         {
             "id": "殷野王",
@@ -948,11 +943,6 @@
             "value": 4.0
         },
         {
-            "source": "殷天正",
-            "target": "殷天正",
-            "value": 12
-        },
-        {
             "source": "殷素素",
             "target": "說不得",
             "value": 0.2
@@ -960,7 +950,7 @@
         {
             "source": "殷素素",
             "target": "殷天正",
-            "value": 1.6
+            "value": 0.8
         },
         {
             "source": "殷素素",
@@ -970,11 +960,6 @@
         {
             "source": "殷天正",
             "target": "白眉鷹王",
-            "value": 2.4
-        },
-        {
-            "source": "白眉鷹王",
-            "target": "殷天正",
             "value": 2.4
         },
         {
@@ -1015,12 +1000,12 @@
         {
             "source": "殷天正",
             "target": "殷野王",
-            "value": 5.6
+            "value": 2.8
         },
         {
             "source": "殷天正",
             "target": "李天垣",
-            "value": 0.8
+            "value": 0.4
         },
         {
             "source": "殷野王",
@@ -1050,7 +1035,7 @@
         {
             "source": "殷天正",
             "target": "唐文亮",
-            "value": 2.8
+            "value": 1.4
         },
         {
             "source": "金毛獅王",
@@ -1065,7 +1050,7 @@
         {
             "source": "殷天正",
             "target": "靜虛師太",
-            "value": 0.4
+            "value": 0.2
         },
         {
             "source": "程壇主",
@@ -2075,7 +2060,7 @@
         {
             "source": "張無忌",
             "target": "殷天正",
-            "value": 11.6
+            "value": 5.8
         },
         {
             "source": "張無忌",
@@ -2091,11 +2076,6 @@
             "source": "白眉鷹王",
             "target": "金毛獅王",
             "value": 0.6
-        },
-        {
-            "source": "金毛獅王",
-            "target": "殷天正",
-            "value": 0.2
         },
         {
             "source": "紫衫龍王",
@@ -2170,7 +2150,7 @@
         {
             "source": "周芷若",
             "target": "殷天正",
-            "value": 1.2
+            "value": 0.6
         },
         {
             "source": "周芷若",
@@ -2180,7 +2160,7 @@
         {
             "source": "殷天正",
             "target": "殷無福",
-            "value": 0.4
+            "value": 0.2
         },
         {
             "source": "張三丰",
@@ -2310,11 +2290,6 @@
         {
             "source": "殷天正",
             "target": "韋一笑",
-            "value": 3.0
-        },
-        {
-            "source": "韋一笑",
-            "target": "殷天正",
             "value": 3.0
         },
         {
@@ -2460,7 +2435,7 @@
         {
             "source": "殷天正",
             "target": "空見",
-            "value": 0.4
+            "value": 0.2
         },
         {
             "source": "周顛",
@@ -2505,22 +2480,22 @@
         {
             "source": "殷天正",
             "target": "空聞",
-            "value": 1.2
+            "value": 0.6
         },
         {
             "source": "殷天正",
             "target": "空智",
-            "value": 1.2
+            "value": 0.6
         },
         {
             "source": "張三丰",
             "target": "殷天正",
-            "value": 3.2
+            "value": 1.6
         },
         {
             "source": "殷天正",
             "target": "殷梨亭",
-            "value": 0.4
+            "value": 0.2
         },
         {
             "source": "白眉鷹王",
@@ -2535,7 +2510,7 @@
         {
             "source": "殷天正",
             "target": "宗維俠",
-            "value": 2.8
+            "value": 1.4
         },
         {
             "source": "殷素素",
@@ -2619,11 +2594,6 @@
         },
         {
             "source": "冷謙",
-            "target": "殷天正",
-            "value": 0.2
-        },
-        {
-            "source": "冷謙",
             "target": "殷野王",
             "value": 0.2
         },
@@ -2634,18 +2604,8 @@
         },
         {
             "source": "說不得",
-            "target": "殷天正",
-            "value": 1.6
-        },
-        {
-            "source": "說不得",
             "target": "殷野王",
             "value": 1.0
-        },
-        {
-            "source": "周顛",
-            "target": "殷天正",
-            "value": 1.8
         },
         {
             "source": "周顛",
@@ -2768,11 +2728,6 @@
             "value": 0.6
         },
         {
-            "source": "彭瑩玉",
-            "target": "殷天正",
-            "value": 0.6
-        },
-        {
             "source": "青翼蝠王",
             "target": "冷謙",
             "value": 0.2
@@ -2790,11 +2745,6 @@
         {
             "source": "韋一笑",
             "target": "唐洋",
-            "value": 0.2
-        },
-        {
-            "source": "唐洋",
-            "target": "殷天正",
             "value": 0.2
         },
         {
@@ -2900,7 +2850,7 @@
         {
             "source": "趙敏",
             "target": "殷天正",
-            "value": 1.2
+            "value": 0.6
         },
         {
             "source": "趙敏",
@@ -2915,7 +2865,7 @@
         {
             "source": "小昭",
             "target": "殷天正",
-            "value": 1.6
+            "value": 0.8
         },
         {
             "source": "小昭",
@@ -3115,7 +3065,7 @@
         {
             "source": "殷天正",
             "target": "空性",
-            "value": 0.4
+            "value": 0.2
         },
         {
             "source": "白眉鷹王",
@@ -4113,11 +4063,6 @@
             "value": 0.2
         },
         {
-            "source": "常遇春",
-            "target": "殷天正",
-            "value": 0.2
-        },
-        {
             "source": "趙敏",
             "target": "光明左使",
             "value": 0.2
@@ -4125,11 +4070,6 @@
         {
             "source": "殷天正",
             "target": "青翼蝠王",
-            "value": 0.4
-        },
-        {
-            "source": "青翼蝠王",
-            "target": "殷天正",
             "value": 0.4
         },
         {
@@ -4220,7 +4160,7 @@
         {
             "source": "光明左使",
             "target": "殷天正",
-            "value": 0.4
+            "value": 0.2
         },
         {
             "source": "渡厄",
@@ -4330,7 +4270,7 @@
         {
             "source": "殷天正",
             "target": "渡難",
-            "value": 4.0
+            "value": 2.0
         },
         {
             "source": "韋一笑",
@@ -4345,12 +4285,12 @@
         {
             "source": "殷天正",
             "target": "渡厄",
-            "value": 0.4
+            "value": 0.2
         },
         {
             "source": "殷天正",
             "target": "渡劫",
-            "value": 0.8
+            "value": 0.4
         },
         {
             "source": "白眉鷹王",
