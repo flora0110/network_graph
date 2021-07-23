@@ -8,3 +8,4 @@
 * [web](https://my-dash-app0721.herokuapp.com/)   
 * [檔案](https://github.com/flora0110/network_graph/tree/master/network_app_backup)
 * igraph、dash、heroku
+有可能要給他跑一下
