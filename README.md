@@ -1,6 +1,10 @@
 # 倚天屠龍記人物關係圖
-* [web html版](https://flora0110.github.io/network_graph/)   
-  * https://github.com/flora0110/network_graph/tree/gh-pages 
+## html 版
+* [web](https://flora0110.github.io/network_graph/)   
+* [檔案](https://github.com/flora0110/network_graph/tree/gh-pages)
+* ForceGraph3D
 
-* [web dash版](https://my-dash-app0721.herokuapp.com/)   
-  * https://github.com/flora0110/network_graph/tree/master/network_app_backup
+## python 版
+* [web](https://my-dash-app0721.herokuapp.com/)   
+* [檔案](https://github.com/flora0110/network_graph/tree/master/network_app_backup)
+* igraph、dash、heroku
