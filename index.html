@@ -7,12 +7,53 @@
         <script src="https://unpkg.com/three@0.130.1/examples/js/renderers/CSS2DRenderer.js"></script>
         <link rel="stylesheet" href="network_graph.css">
     </head>
+    <script type="text/javascript" src="https://code.jquery.com/jquery-1.11.3.js"></script>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
     <body bgcolor="black">
+        <div bgcolor="white">
         <h1>倚天屠龍記人物關係圖</h1>
         <div id="3d-graph"></div>
         <script src=network_graph.js></script>
         <script src=full_screen.js></script>
-        <button id="full_screen" class="buttom" onclick="full_screen()">full screen</button>
+        <div bgcolor="white">
+        <table class="for-table" border="1">
+            <thead>
+                <tr>
+                    <th>姓名</th>
+                    <th>年齡</th>
+                </tr>
+            </thead>
+            <tbody></tbody>
+        </table>
+        </div>
+        <script type="text/javascript">
+            console.log("a");
+            $(document).ready(function() {
+                console.log("b");
+                //var str = "https://api.worldofwarships.ru/wows/encyclopedia/info/?application_id=8bedc4c23b5ede8d1f9527d45bfe9c51&language=zh-tw";
+                var str = "https://raw.githubusercontent.com/flora0110/network_graph/master/node_and_link.json";
+                url =str;
 
+                $.ajaxSetup({
+                    async: false
+                });
+                console.log("c");
+                var forTable = document.querySelector('.for-table tbody');
+                $.getJSON(url, {}, function (data) { //讀取json資料,把資料放進data裡
+                      console.log("d");
+                    //console.log(data);
+                    for (var i = 0, len = data.nodes.length; i < len; i++) {
+                        console.log("e");
+                        //console.log(data[i].nodes.name);
+                        console.log(data.nodes[i].name);
+                        forTable.innerHTML +=
+                            '<tr>' +
+                                '<td>' + data.nodes[i].id + '</td>' +
+                                '<td>' + data.nodes[i].group + '</td>' +
+                            '</tr>';
+                    }
+                });
+            });
+        </script>
     </body>
 </html>
