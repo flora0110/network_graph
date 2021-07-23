@@ -5,11 +5,14 @@
         <script src="https://unpkg.com/three@0.130.1/build/three.js"></script>
         <script src="https://unpkg.com/three-spritetext@1.6.2/dist/three-spritetext.min.js"></script>
         <script src="https://unpkg.com/three@0.130.1/examples/js/renderers/CSS2DRenderer.js"></script>
+        <link rel="stylesheet" href="network_graph.css">
     </head>
-    <body>
+    <body bgcolor="black">
         <h1>倚天屠龍記人物關係圖</h1>
         <div id="3d-graph"></div>
         <script src=network_graph.js></script>
-        <button class="btn" style="margin-top: 5px; background-color: rgba(255, 255, 255, 0.7);">全螢幕<img src="https://p208p2002.github.io/novel-relation-chart/static/media/fullscreen.f90ef5b1.svg" alt="" style="margin-top: -4px; margin-left: 3px;"></button>
+        <script src=full_screen.js></script>
+        <button id="full_screen" class="buttom" onclick="full_screen()">full screen</button>
+
     </body>
 </html>

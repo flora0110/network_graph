@@ -1,8 +1,3 @@
-var color=[]
-for(i=0;i<145;i++){
-    color[i]='#4caf50';
-}
-
 const Graph = ForceGraph3D()
   (document.getElementById('3d-graph'))
     .jsonUrl('https://raw.githubusercontent.com/flora0110/network_graph/master/node_and_link.json')
@@ -10,7 +5,6 @@ const Graph = ForceGraph3D()
     .nodeThreeObject(node => {
       const sprite = new SpriteText(node.id);
       sprite.material.depthWrite = false; // make sprite background transparent
-      console.log(node.color)
       sprite.color =node.color;
       sprite.textHeight = node.group;
       return sprite;
