@@ -7,13 +7,13 @@ const Graph = ForceGraph3D()
       sprite.material.depthWrite = false; // make sprite background transparent
       sprite.color =node.color;
       sprite.textHeight = node.group;
-      sprite.backgroundColor = "rgba(0,0,0,0.6)";	
+      sprite.backgroundColor = "rgba(0,0,0,0.6)";
       return sprite;
     })
     .linkThreeObjectExtend(true)
     .linkThreeObject(link => {
       // extend link with text sprite
-      const sprite = new SpriteText(`${link.source} > ${link.target}`);
+      const sprite = new SpriteText(`${link.source} & ${link.target}`);
       sprite.color = 'white';
       sprite.textHeight = 1.5;
       return sprite;
